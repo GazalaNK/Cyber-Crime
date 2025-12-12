@@ -1,0 +1,2001 @@
+Message_ID,Message_Text,Caller_Location,Is_Fraud,Communication_Type,Duration_Seconds
+1,schedule call me schedule documents assignment,Noida,0,SMS,0
+2,bank alert investment scheme claim now bank alert claim now urgent,Mumbai,1,SMS,0
+3,documents dinner project update assignment invoice hello,Mumbai,0,SMS,0
+4,dinner project update meeting,Mumbai,0,SMS,0
+5,schedule family trip project update,Noida,0,SMS,0
+6,documents dinner documents schedule,Chennai,0,SMS,0
+7,hello assignment assignment documents invoice hello,Pune,0,SMS,0
+8,investment scheme KYC update win KYC update,Mumbai,1,Call,12
+9,call me schedule assignment hello,Delhi,0,Call,218
+10,documents meeting call me,Unknown,0,Call,175
+11,call me invoice hello invoice,Kolkata,0,SMS,0
+12,claim now lottery win KYC update urgent investment scheme,Mumbai,1,SMS,0
+13,claim now OTP bank alert,Pune,1,Call,170
+14,schedule meeting meeting documents project update,Delhi,0,Call,126
+15,assignment invoice schedule family trip meeting,Unknown,0,SMS,0
+16,meeting project update family trip family trip project update,Hyderabad,0,SMS,0
+17,meeting assignment hello hello project update family trip,Bangalore,0,SMS,0
+18,invoice project update assignment project update call me schedule,Delhi,0,SMS,0
+19,family trip documents documents family trip assignment,Chennai,0,SMS,0
+20,call me call me meeting schedule,Delhi,0,SMS,0
+21,hello dinner assignment dinner dinner,Delhi,0,SMS,0
+22,family trip documents documents hello family trip dinner,Chennai,0,SMS,0
+23,invoice documents assignment assignment meeting project update,Hyderabad,0,Call,220
+24,invoice documents call me documents meeting,Noida,0,SMS,0
+25,assignment dinner call me,Unknown,0,SMS,0
+26,bank alert OTP urgent,Delhi,1,SMS,0
+27,schedule invoice project update call me hello call me,Delhi,0,Call,262
+28,documents assignment documents documents,Chennai,0,Call,38
+29,invoice dinner hello hello documents schedule,Pune,0,SMS,0
+30,invoice documents project update,Delhi,0,Call,230
+31,assignment dinner family trip project update schedule,Delhi,0,Call,156
+32,call me call me project update documents family trip,Chennai,0,Call,212
+33,meeting meeting schedule,Pune,0,SMS,0
+34,blocked KYC update KYC update,Chennai,1,SMS,0
+35,urgent bank alert bank alert free gift claim now OTP,Delhi,1,SMS,0
+36,lottery OTP KYC update KYC update win urgent,Mumbai,1,SMS,0
+37,family trip assignment schedule hello invoice call me,Unknown,0,SMS,0
+38,meeting dinner invoice dinner,Pune,0,SMS,0
+39,project update assignment hello,Mumbai,0,SMS,0
+40,call me invoice dinner,Chennai,0,Call,68
+41,family trip project update family trip,Delhi,0,SMS,0
+42,call me invoice project update,Chennai,0,SMS,0
+43,invoice hello documents,Noida,0,SMS,0
+44,win bank alert free gift,Noida,1,SMS,0
+45,assignment hello documents assignment meeting,Delhi,0,SMS,0
+46,hello call me dinner,Delhi,0,SMS,0
+47,project update invoice call me project update,Mumbai,0,SMS,0
+48,assignment invoice schedule,Kolkata,0,SMS,0
+49,family trip meeting hello call me meeting,Delhi,0,Call,31
+50,dinner project update project update call me documents,Pune,0,Call,262
+51,blocked OTP bank alert,Pune,1,SMS,0
+52,claim now urgent lottery,Chennai,1,SMS,0
+53,blocked OTP OTP free gift urgent,Mumbai,1,Call,47
+54,investment scheme claim now bank alert,Hyderabad,1,SMS,0
+55,hello call me invoice hello hello dinner,Bangalore,0,SMS,0
+56,urgent lottery OTP claim now free gift win,Chennai,1,Call,118
+57,call me meeting family trip schedule project update documents,Delhi,0,SMS,0
+58,family trip dinner hello,Chennai,0,SMS,0
+59,documents call me call me,Hyderabad,0,SMS,0
+60,dinner meeting invoice documents documents assignment,Bangalore,0,Call,25
+61,family trip schedule family trip,Hyderabad,0,Call,260
+62,invoice call me call me,Hyderabad,0,SMS,0
+63,free gift investment scheme free gift claim now urgent OTP,Noida,1,Call,173
+64,invoice schedule invoice,Pune,0,Call,273
+65,call me dinner documents family trip,Kolkata,0,Call,135
+66,hello dinner documents,Delhi,0,SMS,0
+67,meeting invoice meeting documents dinner invoice,Mumbai,0,Call,98
+68,KYC update free gift claim now claim now urgent urgent,Chennai,1,Call,202
+69,documents project update invoice family trip,Delhi,0,Call,42
+70,claim now blocked OTP lottery free gift,Noida,1,SMS,0
+71,win KYC update KYC update KYC update,Pune,1,Call,144
+72,dinner hello call me,Chennai,0,Call,94
+73,meeting hello invoice invoice dinner,Mumbai,0,SMS,0
+74,free gift lottery win blocked lottery,Kolkata,1,Call,23
+75,documents schedule documents family trip,Delhi,0,Call,214
+76,invoice call me assignment dinner,Pune,0,Call,46
+77,bank alert blocked KYC update,Unknown,1,SMS,0
+78,call me family trip dinner,Delhi,0,SMS,0
+79,invoice call me dinner schedule schedule,Hyderabad,0,Call,89
+80,dinner family trip call me family trip,Hyderabad,0,Call,230
+81,win blocked win OTP,Bangalore,1,Call,257
+82,invoice meeting documents schedule family trip family trip,Pune,0,Call,62
+83,family trip invoice project update meeting,Hyderabad,0,Call,100
+84,family trip assignment documents,Kolkata,0,Call,297
+85,call me assignment meeting,Kolkata,0,SMS,0
+86,invoice meeting call me,Hyderabad,0,Call,102
+87,documents call me dinner,Pune,0,Call,277
+88,documents meeting family trip meeting meeting documents,Noida,0,Call,35
+89,urgent lottery investment scheme OTP KYC update,Mumbai,1,SMS,0
+90,hello meeting assignment family trip,Mumbai,0,Call,87
+91,invoice invoice documents,Pune,0,SMS,0
+92,hello meeting invoice meeting,Unknown,0,Call,50
+93,blocked KYC update free gift,Mumbai,1,Call,87
+94,schedule schedule invoice schedule,Chennai,0,Call,212
+95,free gift lottery blocked free gift,Mumbai,1,Call,110
+96,documents documents hello meeting assignment schedule,Chennai,0,Call,268
+97,assignment hello documents invoice,Hyderabad,0,Call,118
+98,schedule schedule meeting dinner,Noida,0,SMS,0
+99,project update project update project update dinner meeting,Noida,0,Call,268
+100,dinner project update hello call me documents,Mumbai,0,Call,258
+101,dinner meeting meeting,Mumbai,0,Call,229
+102,assignment call me invoice schedule project update invoice,Pune,0,SMS,0
+103,assignment project update call me assignment project update,Mumbai,0,Call,24
+104,call me family trip invoice,Bangalore,0,SMS,0
+105,claim now OTP free gift urgent bank alert KYC update,Bangalore,1,Call,102
+106,project update family trip call me documents project update,Unknown,0,Call,151
+107,meeting invoice call me,Hyderabad,0,SMS,0
+108,lottery OTP investment scheme,Chennai,1,SMS,0
+109,hello hello meeting,Noida,0,Call,92
+110,invoice schedule documents invoice family trip hello,Hyderabad,0,SMS,0
+111,family trip project update dinner,Chennai,0,SMS,0
+112,call me schedule invoice hello family trip assignment,Chennai,0,Call,31
+113,win free gift free gift claim now OTP,Delhi,1,Call,129
+114,blocked investment scheme claim now,Mumbai,1,Call,113
+115,family trip dinner meeting documents,Unknown,0,SMS,0
+116,OTP win blocked KYC update,Mumbai,1,Call,268
+117,OTP urgent KYC update blocked lottery lottery,Unknown,1,Call,236
+118,dinner call me assignment project update call me meeting,Hyderabad,0,SMS,0
+119,lottery bank alert KYC update blocked win urgent,Pune,1,SMS,0
+120,documents family trip meeting,Pune,0,Call,70
+121,urgent lottery win KYC update blocked blocked,Hyderabad,1,SMS,0
+122,free gift urgent investment scheme bank alert investment scheme free gift,Bangalore,1,SMS,0
+123,project update family trip hello,Chennai,0,SMS,0
+124,assignment hello assignment hello,Unknown,0,Call,156
+125,assignment hello call me schedule family trip,Kolkata,0,Call,86
+126,dinner project update invoice meeting dinner meeting,Mumbai,0,Call,23
+127,bank alert urgent KYC update KYC update claim now lottery,Hyderabad,1,SMS,0
+128,win bank alert KYC update OTP free gift free gift,Chennai,1,Call,277
+129,assignment project update call me assignment meeting hello,Unknown,0,Call,31
+130,hello schedule dinner,Noida,0,SMS,0
+131,call me meeting documents call me project update,Mumbai,0,SMS,0
+132,dinner call me meeting call me project update documents,Pune,0,Call,283
+133,family trip invoice documents assignment call me,Hyderabad,0,SMS,0
+134,hello schedule hello documents hello,Pune,0,Call,121
+135,lottery KYC update urgent,Unknown,1,Call,88
+136,family trip call me hello,Pune,0,Call,159
+137,project update family trip family trip,Mumbai,0,SMS,0
+138,hello family trip schedule hello,Bangalore,0,SMS,0
+139,meeting documents dinner invoice,Chennai,0,Call,35
+140,investment scheme bank alert lottery free gift free gift,Bangalore,1,Call,180
+141,investment scheme urgent bank alert OTP investment scheme,Hyderabad,1,Call,191
+142,dinner family trip meeting documents schedule,Bangalore,0,Call,43
+143,invoice call me project update meeting call me,Delhi,0,SMS,0
+144,hello project update call me dinner schedule,Chennai,0,Call,245
+145,call me invoice documents,Unknown,0,Call,196
+146,dinner meeting meeting meeting meeting documents,Chennai,0,SMS,0
+147,call me family trip call me hello schedule project update,Delhi,0,Call,176
+148,family trip family trip call me,Kolkata,0,Call,94
+149,family trip assignment assignment,Bangalore,0,Call,38
+150,hello project update invoice documents,Chennai,0,Call,270
+151,free gift blocked claim now free gift,Pune,1,Call,268
+152,call me project update documents assignment meeting,Unknown,0,SMS,0
+153,documents schedule schedule call me meeting,Noida,0,SMS,0
+154,dinner invoice hello meeting,Hyderabad,0,SMS,0
+155,KYC update blocked blocked KYC update,Hyderabad,1,SMS,0
+156,invoice meeting dinner call me,Hyderabad,0,Call,145
+157,project update documents schedule invoice,Chennai,0,SMS,0
+158,win urgent bank alert free gift,Bangalore,1,SMS,0
+159,documents call me project update call me family trip,Chennai,0,SMS,0
+160,project update documents meeting,Mumbai,0,SMS,0
+161,schedule project update assignment,Pune,0,SMS,0
+162,family trip project update project update assignment documents project update,Noida,0,SMS,0
+163,schedule call me documents,Noida,0,SMS,0
+164,schedule documents schedule family trip schedule,Pune,0,SMS,0
+165,hello schedule meeting meeting invoice,Delhi,0,Call,51
+166,KYC update KYC update free gift KYC update free gift,Mumbai,1,SMS,0
+167,invoice invoice family trip,Unknown,0,Call,127
+168,meeting schedule schedule assignment,Noida,0,SMS,0
+169,assignment dinner documents family trip,Hyderabad,0,SMS,0
+170,dinner dinner project update,Chennai,0,SMS,0
+171,project update dinner hello documents,Delhi,0,Call,178
+172,family trip dinner schedule documents project update,Pune,0,Call,120
+173,schedule project update project update documents,Kolkata,0,SMS,0
+174,project update invoice meeting invoice meeting,Unknown,0,Call,171
+175,assignment assignment project update family trip,Hyderabad,0,SMS,0
+176,family trip meeting schedule documents project update documents,Noida,0,Call,101
+177,invoice family trip hello invoice,Chennai,0,Call,134
+178,invoice meeting call me invoice,Pune,0,Call,171
+179,win urgent urgent win,Unknown,1,SMS,0
+180,call me call me meeting family trip,Kolkata,0,Call,75
+181,documents call me hello meeting assignment,Delhi,0,Call,243
+182,schedule assignment meeting,Noida,0,SMS,0
+183,claim now blocked OTP investment scheme,Chennai,1,Call,149
+184,OTP KYC update KYC update,Hyderabad,1,SMS,0
+185,hello meeting documents meeting dinner invoice,Pune,0,SMS,0
+186,invoice hello dinner call me,Pune,0,Call,165
+187,free gift KYC update investment scheme lottery KYC update,Delhi,1,SMS,0
+188,family trip schedule invoice,Bangalore,0,Call,210
+189,call me project update call me invoice schedule,Bangalore,0,Call,205
+190,invoice project update hello dinner,Hyderabad,0,SMS,0
+191,project update invoice invoice family trip,Kolkata,0,Call,80
+192,bank alert blocked bank alert,Pune,1,Call,104
+193,lottery urgent OTP,Pune,1,SMS,0
+194,project update invoice documents documents schedule dinner,Pune,0,SMS,0
+195,project update call me family trip hello documents,Delhi,0,Call,170
+196,family trip family trip meeting,Bangalore,0,SMS,0
+197,dinner hello call me invoice meeting,Mumbai,0,SMS,0
+198,bank alert bank alert investment scheme KYC update,Unknown,1,SMS,0
+199,KYC update investment scheme KYC update bank alert,Delhi,1,SMS,0
+200,blocked win bank alert lottery urgent,Noida,1,Call,16
+201,assignment call me invoice call me,Kolkata,0,Call,70
+202,family trip meeting family trip dinner,Kolkata,0,SMS,0
+203,documents invoice dinner assignment assignment family trip,Unknown,0,Call,174
+204,lottery urgent OTP lottery,Kolkata,1,SMS,0
+205,documents assignment family trip hello assignment invoice,Kolkata,0,SMS,0
+206,project update hello family trip schedule,Mumbai,0,Call,235
+207,hello invoice meeting schedule,Kolkata,0,Call,96
+208,assignment schedule dinner invoice hello dinner,Pune,0,Call,251
+209,schedule dinner call me invoice documents meeting,Delhi,0,Call,174
+210,schedule invoice documents documents family trip,Bangalore,0,SMS,0
+211,dinner documents call me invoice project update,Kolkata,0,SMS,0
+212,project update schedule assignment dinner assignment documents,Hyderabad,0,Call,84
+213,invoice schedule hello documents dinner project update,Hyderabad,0,SMS,0
+214,family trip invoice meeting assignment schedule assignment,Hyderabad,0,Call,66
+215,invoice assignment invoice assignment,Kolkata,0,Call,190
+216,call me hello documents documents,Noida,0,Call,105
+217,dinner meeting meeting dinner family trip,Pune,0,SMS,0
+218,documents family trip invoice invoice,Chennai,0,SMS,0
+219,project update assignment meeting project update hello dinner,Kolkata,0,Call,223
+220,urgent claim now blocked bank alert,Noida,1,Call,124
+221,meeting project update family trip project update assignment,Chennai,0,Call,254
+222,hello hello family trip family trip family trip,Unknown,0,Call,292
+223,project update assignment call me,Mumbai,0,SMS,0
+224,family trip documents meeting meeting,Pune,0,SMS,0
+225,project update family trip invoice dinner call me,Kolkata,0,Call,262
+226,documents assignment invoice hello,Delhi,0,Call,283
+227,claim now win free gift OTP OTP,Delhi,1,SMS,0
+228,family trip family trip project update,Delhi,0,Call,279
+229,investment scheme bank alert urgent free gift,Unknown,1,SMS,0
+230,project update meeting hello project update project update schedule,Unknown,0,SMS,0
+231,blocked investment scheme blocked urgent,Chennai,1,Call,210
+232,meeting schedule meeting dinner documents project update,Unknown,0,SMS,0
+233,family trip family trip invoice hello assignment dinner,Hyderabad,0,SMS,0
+234,hello assignment hello documents,Mumbai,0,SMS,0
+235,assignment documents project update schedule documents family trip,Hyderabad,0,SMS,0
+236,hello invoice call me assignment dinner,Kolkata,0,Call,11
+237,invoice family trip documents schedule,Chennai,0,SMS,0
+238,project update call me meeting invoice schedule,Noida,0,SMS,0
+239,meeting call me dinner,Chennai,0,SMS,0
+240,dinner hello call me call me meeting,Noida,0,Call,72
+241,OTP investment scheme lottery win urgent,Mumbai,1,Call,256
+242,urgent KYC update win,Unknown,1,Call,234
+243,urgent lottery win lottery investment scheme,Unknown,1,SMS,0
+244,assignment dinner dinner schedule,Kolkata,0,Call,119
+245,assignment invoice invoice hello assignment,Delhi,0,Call,233
+246,lottery lottery bank alert win blocked claim now,Bangalore,1,Call,280
+247,dinner hello documents call me hello,Chennai,0,SMS,0
+248,free gift investment scheme free gift free gift,Chennai,1,Call,45
+249,OTP OTP OTP,Kolkata,1,Call,20
+250,investment scheme blocked KYC update KYC update urgent,Hyderabad,1,Call,50
+251,schedule assignment dinner project update dinner documents,Pune,0,SMS,0
+252,invoice call me schedule invoice,Kolkata,0,SMS,0
+253,urgent investment scheme free gift KYC update lottery free gift,Bangalore,1,Call,65
+254,documents documents dinner project update documents,Unknown,0,Call,296
+255,documents assignment dinner call me project update,Noida,0,Call,181
+256,invoice meeting schedule hello documents,Hyderabad,0,SMS,0
+257,urgent OTP KYC update KYC update,Hyderabad,1,SMS,0
+258,invoice invoice invoice family trip family trip,Mumbai,0,Call,206
+259,hello invoice assignment documents,Bangalore,0,SMS,0
+260,schedule schedule family trip hello,Hyderabad,0,Call,117
+261,dinner call me call me family trip,Bangalore,0,SMS,0
+262,urgent bank alert free gift urgent claim now,Kolkata,1,Call,138
+263,hello schedule assignment,Noida,0,SMS,0
+264,project update hello invoice call me,Noida,0,Call,252
+265,claim now bank alert urgent,Chennai,1,SMS,0
+266,schedule documents family trip hello family trip,Unknown,0,Call,18
+267,hello documents meeting,Chennai,0,Call,52
+268,schedule assignment assignment project update invoice,Hyderabad,0,Call,253
+269,meeting assignment family trip invoice meeting,Mumbai,0,Call,157
+270,dinner dinner invoice hello,Chennai,0,SMS,0
+271,KYC update bank alert lottery lottery claim now,Chennai,1,Call,82
+272,free gift urgent lottery claim now blocked,Chennai,1,SMS,0
+273,win blocked OTP,Bangalore,1,SMS,0
+274,bank alert lottery OTP investment scheme OTP claim now,Kolkata,1,Call,90
+275,meeting project update invoice invoice family trip,Mumbai,0,Call,203
+276,family trip dinner dinner hello call me,Noida,0,Call,256
+277,lottery lottery OTP lottery,Bangalore,1,Call,135
+278,meeting call me assignment dinner,Hyderabad,0,SMS,0
+279,dinner project update meeting call me dinner call me,Mumbai,0,SMS,0
+280,blocked investment scheme lottery win OTP urgent,Noida,1,SMS,0
+281,blocked free gift bank alert claim now,Mumbai,1,SMS,0
+282,meeting meeting documents,Pune,0,Call,86
+283,call me hello meeting hello family trip,Pune,0,SMS,0
+284,documents call me call me assignment invoice dinner,Chennai,0,Call,17
+285,dinner schedule project update documents family trip call me,Chennai,0,Call,211
+286,invoice hello documents schedule documents schedule,Pune,0,SMS,0
+287,call me project update schedule call me call me project update,Noida,0,SMS,0
+288,dinner documents meeting meeting,Hyderabad,0,SMS,0
+289,hello hello meeting,Unknown,0,SMS,0
+290,family trip meeting hello invoice,Unknown,0,SMS,0
+291,hello family trip documents,Bangalore,0,SMS,0
+292,meeting project update invoice call me family trip,Hyderabad,0,Call,226
+293,KYC update win OTP,Mumbai,1,Call,109
+294,dinner meeting dinner family trip,Unknown,0,Call,44
+295,schedule schedule schedule call me,Mumbai,0,SMS,0
+296,family trip documents dinner documents project update,Mumbai,0,Call,247
+297,investment scheme claim now claim now,Mumbai,1,Call,232
+298,documents assignment assignment meeting project update family trip,Unknown,0,Call,261
+299,assignment hello invoice hello project update,Noida,0,Call,122
+300,assignment dinner invoice,Delhi,0,Call,235
+301,meeting meeting schedule call me,Mumbai,0,Call,148
+302,assignment project update invoice call me project update,Hyderabad,0,SMS,0
+303,documents assignment family trip family trip assignment schedule,Kolkata,0,SMS,0
+304,schedule family trip dinner invoice family trip dinner,Chennai,0,SMS,0
+305,call me dinner call me,Hyderabad,0,Call,121
+306,win KYC update win,Pune,1,SMS,0
+307,family trip call me family trip assignment invoice,Unknown,0,SMS,0
+308,meeting family trip invoice dinner project update dinner,Kolkata,0,Call,219
+309,lottery free gift investment scheme,Chennai,1,SMS,0
+310,invoice assignment hello family trip,Hyderabad,0,Call,196
+311,call me hello documents family trip dinner project update,Kolkata,0,SMS,0
+312,invoice meeting meeting dinner,Delhi,0,Call,258
+313,schedule meeting invoice dinner call me meeting,Unknown,0,Call,48
+314,investment scheme urgent claim now,Noida,1,SMS,0
+315,investment scheme bank alert bank alert lottery investment scheme win,Bangalore,1,Call,217
+316,family trip project update call me dinner hello,Delhi,0,SMS,0
+317,invoice dinner invoice assignment call me documents,Pune,0,Call,253
+318,meeting invoice invoice assignment,Noida,0,SMS,0
+319,project update dinner documents schedule meeting hello,Delhi,0,SMS,0
+320,schedule dinner meeting,Chennai,0,Call,195
+321,invoice hello project update documents project update,Kolkata,0,SMS,0
+322,call me assignment meeting project update schedule,Unknown,0,SMS,0
+323,assignment project update family trip,Kolkata,0,SMS,0
+324,call me dinner documents,Mumbai,0,Call,166
+325,free gift investment scheme bank alert lottery,Hyderabad,1,Call,244
+326,schedule documents documents,Pune,0,SMS,0
+327,call me assignment meeting invoice family trip,Mumbai,0,SMS,0
+328,invoice schedule meeting meeting,Mumbai,0,Call,264
+329,family trip hello invoice project update documents,Pune,0,Call,261
+330,hello project update assignment,Hyderabad,0,SMS,0
+331,family trip assignment documents,Chennai,0,Call,261
+332,urgent win KYC update win win bank alert,Hyderabad,1,Call,238
+333,assignment invoice dinner,Unknown,0,SMS,0
+334,family trip schedule family trip documents dinner,Kolkata,0,Call,155
+335,meeting schedule call me family trip project update invoice,Chennai,0,Call,143
+336,meeting family trip family trip hello hello meeting,Bangalore,0,Call,133
+337,investment scheme KYC update win OTP,Kolkata,1,SMS,0
+338,call me dinner call me call me dinner,Chennai,0,Call,236
+339,hello meeting dinner documents assignment,Hyderabad,0,SMS,0
+340,schedule invoice hello assignment,Pune,0,Call,287
+341,dinner documents invoice schedule schedule,Hyderabad,0,Call,246
+342,hello dinner assignment meeting assignment assignment,Bangalore,0,SMS,0
+343,schedule meeting meeting,Chennai,0,SMS,0
+344,hello invoice family trip,Unknown,0,SMS,0
+345,call me call me schedule,Hyderabad,0,SMS,0
+346,family trip invoice family trip hello,Chennai,0,Call,279
+347,assignment schedule meeting schedule call me,Kolkata,0,SMS,0
+348,invoice family trip invoice,Bangalore,0,SMS,0
+349,hello schedule dinner schedule meeting,Unknown,0,SMS,0
+350,schedule documents hello project update,Chennai,0,Call,288
+351,hello family trip project update family trip family trip,Delhi,0,Call,288
+352,lottery lottery investment scheme free gift investment scheme investment scheme,Hyderabad,1,SMS,0
+353,call me dinner project update,Bangalore,0,SMS,0
+354,invoice assignment schedule schedule family trip call me,Unknown,0,SMS,0
+355,family trip documents documents invoice meeting meeting,Unknown,0,SMS,0
+356,call me call me assignment documents assignment,Mumbai,0,Call,143
+357,meeting project update project update call me family trip meeting,Bangalore,0,SMS,0
+358,project update meeting hello schedule documents assignment,Unknown,0,Call,120
+359,lottery OTP KYC update investment scheme lottery,Chennai,1,SMS,0
+360,call me schedule assignment meeting schedule,Mumbai,0,SMS,0
+361,hello meeting meeting meeting invoice call me,Kolkata,0,Call,144
+362,hello assignment invoice family trip invoice,Chennai,0,SMS,0
+363,documents documents meeting invoice family trip invoice,Hyderabad,0,SMS,0
+364,call me call me family trip,Bangalore,0,SMS,0
+365,claim now OTP free gift free gift win,Hyderabad,1,SMS,0
+366,invoice call me hello invoice documents project update,Noida,0,Call,266
+367,free gift win blocked bank alert bank alert,Noida,1,SMS,0
+368,claim now blocked urgent urgent,Bangalore,1,SMS,0
+369,invoice meeting project update project update,Kolkata,0,Call,269
+370,family trip dinner assignment call me call me,Mumbai,0,SMS,0
+371,call me family trip documents schedule,Delhi,0,Call,69
+372,dinner dinner assignment project update,Unknown,0,SMS,0
+373,meeting invoice project update documents invoice,Delhi,0,SMS,0
+374,dinner documents invoice assignment assignment,Noida,0,SMS,0
+375,hello schedule assignment dinner meeting call me,Noida,0,Call,135
+376,hello call me schedule,Kolkata,0,Call,178
+377,claim now bank alert investment scheme,Delhi,1,SMS,0
+378,meeting schedule call me hello assignment dinner,Delhi,0,Call,282
+379,investment scheme KYC update KYC update bank alert,Mumbai,1,SMS,0
+380,assignment assignment family trip documents,Kolkata,0,Call,255
+381,documents invoice documents,Kolkata,0,SMS,0
+382,project update assignment meeting assignment project update,Bangalore,0,Call,88
+383,project update call me assignment schedule,Hyderabad,0,SMS,0
+384,win lottery bank alert claim now,Kolkata,1,Call,180
+385,call me family trip call me,Kolkata,0,Call,234
+386,lottery KYC update investment scheme,Chennai,1,Call,273
+387,dinner schedule family trip,Pune,0,Call,77
+388,assignment schedule hello dinner schedule,Delhi,0,SMS,0
+389,OTP bank alert blocked urgent investment scheme KYC update,Unknown,1,SMS,0
+390,urgent lottery blocked lottery,Delhi,1,Call,252
+391,KYC update bank alert bank alert KYC update,Bangalore,1,SMS,0
+392,call me hello documents project update family trip,Bangalore,0,Call,93
+393,invoice documents documents,Bangalore,0,SMS,0
+394,blocked OTP blocked bank alert win,Hyderabad,1,Call,279
+395,project update documents meeting family trip family trip,Unknown,0,SMS,0
+396,urgent investment scheme free gift free gift lottery,Mumbai,1,SMS,0
+397,free gift urgent KYC update free gift,Hyderabad,1,Call,220
+398,family trip hello call me family trip,Bangalore,0,Call,187
+399,bank alert blocked win lottery urgent,Hyderabad,1,Call,29
+400,OTP investment scheme free gift free gift KYC update,Mumbai,1,Call,100
+401,hello assignment call me invoice dinner,Pune,0,Call,128
+402,free gift win investment scheme claim now urgent free gift,Unknown,1,SMS,0
+403,schedule documents project update,Hyderabad,0,Call,261
+404,OTP KYC update KYC update free gift KYC update win,Unknown,1,SMS,0
+405,dinner family trip meeting assignment dinner family trip,Mumbai,0,Call,19
+406,claim now win OTP bank alert,Pune,1,SMS,0
+407,project update documents schedule hello hello,Unknown,0,SMS,0
+408,schedule invoice invoice invoice family trip assignment,Bangalore,0,Call,53
+409,bank alert free gift lottery OTP,Unknown,1,Call,251
+410,dinner meeting documents,Kolkata,0,SMS,0
+411,family trip family trip project update meeting project update,Bangalore,0,SMS,0
+412,urgent win lottery OTP,Unknown,1,Call,241
+413,blocked bank alert urgent,Chennai,1,SMS,0
+414,family trip call me documents assignment project update hello,Chennai,0,SMS,0
+415,meeting family trip project update dinner family trip assignment,Bangalore,0,SMS,0
+416,documents documents family trip dinner documents,Unknown,0,SMS,0
+417,documents assignment meeting dinner dinner,Delhi,0,SMS,0
+418,schedule schedule documents hello schedule documents,Hyderabad,0,SMS,0
+419,invoice call me call me dinner,Chennai,0,Call,178
+420,KYC update investment scheme lottery OTP,Delhi,1,Call,108
+421,claim now blocked KYC update urgent,Noida,1,Call,127
+422,OTP KYC update OTP,Hyderabad,1,Call,165
+423,meeting meeting assignment call me project update,Bangalore,0,SMS,0
+424,project update schedule assignment project update,Chennai,0,Call,226
+425,dinner project update family trip documents,Pune,0,SMS,0
+426,assignment dinner hello,Chennai,0,SMS,0
+427,dinner call me hello invoice documents,Mumbai,0,Call,135
+428,blocked blocked blocked,Chennai,1,Call,27
+429,schedule documents documents documents assignment,Pune,0,SMS,0
+430,schedule meeting dinner dinner,Pune,0,Call,166
+431,hello assignment family trip dinner,Bangalore,0,Call,294
+432,win bank alert blocked blocked OTP,Pune,1,SMS,0
+433,family trip project update schedule,Chennai,0,SMS,0
+434,hello family trip assignment documents documents call me,Bangalore,0,SMS,0
+435,schedule meeting meeting schedule assignment invoice,Unknown,0,SMS,0
+436,schedule assignment hello documents project update invoice,Chennai,0,SMS,0
+437,family trip invoice project update call me,Kolkata,0,SMS,0
+438,blocked lottery investment scheme OTP OTP lottery,Hyderabad,1,Call,263
+439,invoice documents dinner assignment hello project update,Pune,0,Call,261
+440,invoice family trip call me schedule,Noida,0,Call,56
+441,invoice call me project update schedule,Mumbai,0,SMS,0
+442,OTP urgent claim now blocked,Kolkata,1,SMS,0
+443,meeting meeting hello family trip call me invoice,Pune,0,Call,266
+444,assignment family trip dinner schedule documents,Chennai,0,Call,283
+445,claim now bank alert bank alert blocked KYC update free gift,Bangalore,1,Call,44
+446,free gift bank alert win bank alert,Kolkata,1,SMS,0
+447,bank alert blocked OTP blocked,Noida,1,Call,115
+448,claim now bank alert free gift investment scheme free gift lottery,Hyderabad,1,Call,146
+449,hello dinner invoice,Bangalore,0,Call,166
+450,invoice hello assignment dinner schedule,Mumbai,0,SMS,0
+451,bank alert urgent investment scheme win lottery,Delhi,1,Call,198
+452,dinner dinner meeting family trip,Mumbai,0,Call,238
+453,dinner meeting meeting meeting documents assignment,Kolkata,0,SMS,0
+454,blocked win OTP,Pune,1,SMS,0
+455,documents documents assignment schedule hello meeting,Unknown,0,SMS,0
+456,invoice schedule project update family trip project update meeting,Pune,0,SMS,0
+457,schedule project update project update hello hello schedule,Hyderabad,0,SMS,0
+458,meeting documents call me dinner invoice,Kolkata,0,Call,112
+459,dinner assignment hello schedule,Unknown,0,Call,260
+460,dinner meeting invoice dinner invoice family trip,Bangalore,0,SMS,0
+461,meeting call me project update,Unknown,0,SMS,0
+462,invoice meeting invoice invoice documents,Hyderabad,0,SMS,0
+463,documents meeting documents assignment,Chennai,0,SMS,0
+464,call me schedule meeting meeting,Noida,0,Call,291
+465,investment scheme KYC update KYC update blocked,Pune,1,Call,296
+466,schedule documents family trip family trip project update family trip,Kolkata,0,SMS,0
+467,hello call me family trip documents invoice meeting,Hyderabad,0,SMS,0
+468,free gift free gift blocked lottery KYC update free gift,Delhi,1,SMS,0
+469,project update documents call me,Noida,0,SMS,0
+470,OTP lottery bank alert free gift,Hyderabad,1,Call,276
+471,documents family trip project update family trip schedule hello,Delhi,0,SMS,0
+472,free gift urgent urgent bank alert investment scheme lottery,Delhi,1,SMS,0
+473,dinner assignment dinner assignment meeting,Delhi,0,Call,10
+474,claim now urgent OTP free gift,Chennai,1,SMS,0
+475,assignment call me documents,Unknown,0,Call,228
+476,blocked lottery investment scheme,Mumbai,1,SMS,0
+477,project update documents meeting,Pune,0,SMS,0
+478,documents documents project update dinner family trip invoice,Delhi,0,Call,187
+479,blocked blocked OTP,Hyderabad,1,SMS,0
+480,invoice project update call me assignment documents family trip,Bangalore,0,Call,285
+481,assignment invoice assignment dinner documents,Bangalore,0,Call,192
+482,assignment call me call me documents,Kolkata,0,Call,173
+483,hello call me assignment meeting,Delhi,0,SMS,0
+484,call me invoice hello assignment project update schedule,Hyderabad,0,SMS,0
+485,project update dinner schedule dinner schedule,Delhi,0,Call,218
+486,OTP lottery bank alert claim now win,Chennai,1,SMS,0
+487,call me assignment hello invoice dinner meeting,Delhi,0,SMS,0
+488,dinner family trip hello meeting,Pune,0,SMS,0
+489,urgent bank alert investment scheme investment scheme urgent,Bangalore,1,Call,125
+490,claim now KYC update blocked claim now investment scheme,Delhi,1,Call,134
+491,hello family trip meeting,Pune,0,SMS,0
+492,schedule dinner project update hello call me family trip,Pune,0,Call,73
+493,documents schedule call me documents,Unknown,0,SMS,0
+494,project update assignment invoice,Pune,0,SMS,0
+495,dinner meeting documents,Bangalore,0,SMS,0
+496,schedule hello assignment,Kolkata,0,Call,282
+497,hello schedule hello,Chennai,0,Call,273
+498,documents family trip hello invoice project update meeting,Bangalore,0,SMS,0
+499,blocked free gift OTP investment scheme blocked,Hyderabad,1,Call,227
+500,bank alert investment scheme claim now OTP investment scheme,Kolkata,1,SMS,0
+501,hello documents project update schedule dinner invoice,Pune,0,Call,42
+502,meeting schedule family trip documents,Delhi,0,Call,229
+503,hello meeting meeting,Unknown,0,Call,86
+504,claim now investment scheme bank alert investment scheme KYC update lottery,Kolkata,1,SMS,0
+505,family trip family trip call me documents meeting meeting,Hyderabad,0,SMS,0
+506,family trip assignment meeting family trip meeting family trip,Hyderabad,0,SMS,0
+507,free gift blocked bank alert,Kolkata,1,Call,220
+508,lottery KYC update blocked,Unknown,1,SMS,0
+509,free gift bank alert KYC update,Pune,1,SMS,0
+510,family trip assignment meeting schedule invoice project update,Hyderabad,0,SMS,0
+511,assignment hello assignment dinner family trip family trip,Pune,0,SMS,0
+512,project update project update dinner,Hyderabad,0,Call,65
+513,lottery claim now OTP OTP free gift,Kolkata,1,Call,144
+514,free gift lottery free gift free gift urgent,Delhi,1,SMS,0
+515,dinner call me assignment documents,Bangalore,0,Call,121
+516,documents meeting schedule project update meeting,Chennai,0,Call,46
+517,call me dinner family trip assignment,Hyderabad,0,Call,22
+518,KYC update urgent blocked,Noida,1,Call,262
+519,urgent investment scheme win,Mumbai,1,Call,161
+520,call me family trip documents,Delhi,0,SMS,0
+521,documents invoice schedule project update documents,Noida,0,Call,291
+522,schedule documents call me schedule assignment,Pune,0,SMS,0
+523,claim now free gift investment scheme,Chennai,1,SMS,0
+524,bank alert win win KYC update KYC update OTP,Unknown,1,SMS,0
+525,win OTP KYC update,Unknown,1,Call,220
+526,family trip documents assignment dinner,Chennai,0,Call,290
+527,schedule family trip assignment project update documents,Delhi,0,Call,92
+528,assignment invoice hello,Delhi,0,Call,57
+529,assignment dinner family trip documents,Chennai,0,SMS,0
+530,free gift investment scheme lottery urgent urgent lottery,Delhi,1,SMS,0
+531,claim now free gift KYC update,Chennai,1,SMS,0
+532,bank alert blocked bank alert free gift bank alert lottery,Hyderabad,1,Call,183
+533,urgent bank alert OTP investment scheme,Mumbai,1,SMS,0
+534,call me invoice schedule,Pune,0,SMS,0
+535,lottery win lottery claim now claim now,Bangalore,1,SMS,0
+536,OTP investment scheme free gift,Kolkata,1,Call,103
+537,KYC update urgent OTP,Mumbai,1,SMS,0
+538,invoice project update documents,Bangalore,0,SMS,0
+539,invoice assignment assignment invoice assignment,Kolkata,0,Call,227
+540,schedule invoice invoice call me dinner,Unknown,0,SMS,0
+541,win investment scheme free gift,Mumbai,1,Call,202
+542,hello hello family trip schedule schedule meeting,Noida,0,SMS,0
+543,project update invoice assignment project update family trip meeting,Mumbai,0,Call,142
+544,call me project update call me hello,Delhi,0,Call,188
+545,assignment family trip invoice assignment dinner,Bangalore,0,Call,268
+546,schedule family trip project update assignment documents schedule,Delhi,0,SMS,0
+547,schedule documents meeting meeting,Unknown,0,SMS,0
+548,documents dinner hello documents hello,Pune,0,Call,132
+549,assignment dinner family trip,Unknown,0,Call,232
+550,KYC update OTP investment scheme OTP urgent,Delhi,1,Call,104
+551,hello call me dinner,Delhi,0,Call,212
+552,urgent free gift investment scheme,Bangalore,1,Call,95
+553,hello hello schedule,Hyderabad,0,Call,226
+554,dinner dinner invoice family trip,Delhi,0,Call,221
+555,urgent win bank alert win,Delhi,1,Call,243
+556,hello family trip dinner,Pune,0,Call,183
+557,call me schedule project update,Mumbai,0,Call,190
+558,family trip dinner family trip dinner,Mumbai,0,Call,169
+559,urgent urgent claim now OTP free gift free gift,Delhi,1,Call,112
+560,family trip family trip dinner,Unknown,0,SMS,0
+561,invoice dinner invoice,Pune,0,Call,13
+562,dinner project update project update hello,Unknown,0,SMS,0
+563,dinner schedule hello family trip assignment,Kolkata,0,SMS,0
+564,dinner project update assignment invoice assignment schedule,Hyderabad,0,SMS,0
+565,dinner call me assignment call me,Mumbai,0,Call,138
+566,invoice hello call me hello project update dinner,Mumbai,0,SMS,0
+567,assignment project update project update documents,Pune,0,Call,266
+568,meeting schedule hello documents,Chennai,0,SMS,0
+569,lottery OTP KYC update urgent OTP investment scheme,Unknown,1,Call,100
+570,project update meeting meeting meeting hello,Pune,0,Call,228
+571,assignment schedule project update assignment documents,Bangalore,0,SMS,0
+572,urgent free gift investment scheme blocked win free gift,Chennai,1,SMS,0
+573,call me assignment meeting,Noida,0,Call,129
+574,family trip project update meeting project update family trip,Unknown,0,SMS,0
+575,urgent bank alert claim now,Chennai,1,Call,131
+576,investment scheme investment scheme blocked lottery blocked,Pune,1,Call,242
+577,invoice family trip assignment hello family trip,Bangalore,0,Call,234
+578,bank alert claim now urgent win,Hyderabad,1,SMS,0
+579,invoice project update assignment invoice,Chennai,0,Call,300
+580,project update documents invoice assignment invoice,Hyderabad,0,Call,265
+581,assignment invoice project update dinner,Delhi,0,Call,226
+582,OTP win lottery,Mumbai,1,Call,63
+583,call me dinner documents family trip,Kolkata,0,SMS,0
+584,project update invoice project update,Mumbai,0,SMS,0
+585,hello dinner schedule documents hello assignment,Noida,0,SMS,0
+586,hello project update documents project update,Bangalore,0,SMS,0
+587,assignment family trip documents family trip,Hyderabad,0,Call,111
+588,dinner dinner family trip,Pune,0,Call,20
+589,dinner documents invoice meeting,Hyderabad,0,Call,56
+590,dinner dinner project update family trip,Pune,0,Call,18
+591,call me schedule hello dinner hello documents,Pune,0,Call,47
+592,call me schedule family trip,Noida,0,Call,112
+593,meeting schedule schedule meeting,Chennai,0,SMS,0
+594,invoice family trip project update,Mumbai,0,Call,169
+595,KYC update urgent OTP blocked lottery KYC update,Delhi,1,Call,18
+596,call me meeting call me,Hyderabad,0,Call,297
+597,family trip schedule documents dinner,Chennai,0,SMS,0
+598,call me hello invoice family trip invoice,Delhi,0,Call,139
+599,family trip project update hello invoice,Bangalore,0,Call,122
+600,documents schedule meeting dinner schedule schedule,Kolkata,0,Call,224
+601,family trip documents family trip,Hyderabad,0,SMS,0
+602,assignment call me dinner call me meeting,Noida,0,Call,164
+603,assignment hello meeting,Delhi,0,Call,78
+604,meeting project update dinner family trip,Pune,0,SMS,0
+605,documents call me meeting call me,Chennai,0,Call,59
+606,call me hello dinner dinner invoice,Mumbai,0,SMS,0
+607,schedule dinner call me family trip,Noida,0,Call,235
+608,call me family trip invoice family trip dinner hello,Hyderabad,0,SMS,0
+609,family trip call me documents dinner,Chennai,0,Call,41
+610,documents assignment assignment call me,Noida,0,Call,285
+611,assignment schedule invoice,Kolkata,0,SMS,0
+612,urgent blocked free gift,Hyderabad,1,Call,176
+613,schedule call me schedule,Bangalore,0,Call,102
+614,assignment assignment family trip,Mumbai,0,SMS,0
+615,win free gift bank alert urgent bank alert lottery,Bangalore,1,Call,217
+616,investment scheme lottery free gift blocked blocked urgent,Delhi,1,SMS,0
+617,family trip documents schedule schedule dinner,Delhi,0,Call,231
+618,invoice assignment family trip call me hello,Mumbai,0,SMS,0
+619,KYC update KYC update blocked,Chennai,1,Call,59
+620,invoice invoice family trip family trip invoice,Delhi,0,Call,162
+621,dinner family trip dinner meeting schedule assignment,Unknown,0,SMS,0
+622,family trip invoice schedule schedule project update,Unknown,0,Call,152
+623,invoice assignment invoice,Noida,0,SMS,0
+624,family trip call me meeting dinner,Noida,0,SMS,0
+625,call me meeting call me dinner documents invoice,Hyderabad,0,SMS,0
+626,call me family trip assignment hello family trip,Noida,0,Call,289
+627,dinner assignment family trip,Kolkata,0,Call,197
+628,schedule invoice assignment,Noida,0,Call,59
+629,schedule family trip meeting project update meeting invoice,Kolkata,0,SMS,0
+630,assignment assignment invoice schedule project update family trip,Noida,0,SMS,0
+631,dinner meeting meeting,Bangalore,0,SMS,0
+632,KYC update win urgent lottery urgent,Pune,1,Call,11
+633,family trip assignment dinner,Kolkata,0,SMS,0
+634,meeting schedule project update invoice call me,Chennai,0,Call,61
+635,documents documents call me,Hyderabad,0,Call,219
+636,dinner project update dinner invoice,Mumbai,0,Call,41
+637,project update call me dinner hello meeting,Kolkata,0,Call,228
+638,schedule assignment schedule invoice dinner family trip,Delhi,0,Call,70
+639,project update dinner project update assignment hello,Pune,0,Call,38
+640,schedule meeting assignment assignment,Bangalore,0,Call,33
+641,schedule assignment family trip,Unknown,0,Call,66
+642,family trip documents documents family trip,Bangalore,0,SMS,0
+643,call me hello project update hello invoice assignment,Noida,0,Call,286
+644,meeting assignment hello,Hyderabad,0,Call,182
+645,family trip schedule invoice family trip hello schedule,Pune,0,SMS,0
+646,lottery KYC update win urgent,Delhi,1,SMS,0
+647,schedule hello family trip,Kolkata,0,SMS,0
+648,project update call me schedule project update family trip,Bangalore,0,SMS,0
+649,KYC update investment scheme lottery investment scheme urgent,Pune,1,Call,271
+650,project update dinner meeting project update,Kolkata,0,SMS,0
+651,documents family trip project update,Hyderabad,0,SMS,0
+652,family trip assignment invoice schedule invoice,Mumbai,0,SMS,0
+653,hello schedule schedule call me schedule meeting,Unknown,0,SMS,0
+654,invoice assignment family trip hello schedule hello,Hyderabad,0,Call,250
+655,assignment hello assignment,Noida,0,SMS,0
+656,schedule assignment schedule call me call me,Mumbai,0,SMS,0
+657,assignment call me family trip family trip call me,Noida,0,SMS,0
+658,call me documents documents schedule assignment dinner,Bangalore,0,SMS,0
+659,dinner call me hello call me documents,Mumbai,0,Call,50
+660,schedule call me invoice,Noida,0,SMS,0
+661,hello invoice schedule schedule family trip,Mumbai,0,SMS,0
+662,win claim now bank alert blocked lottery,Hyderabad,1,SMS,0
+663,hello meeting assignment documents,Pune,0,Call,127
+664,documents meeting invoice project update invoice meeting,Unknown,0,SMS,0
+665,assignment invoice dinner invoice,Unknown,0,SMS,0
+666,schedule family trip hello,Noida,0,Call,182
+667,invoice project update project update invoice call me,Noida,0,SMS,0
+668,documents invoice documents dinner meeting dinner,Mumbai,0,Call,98
+669,invoice project update call me assignment,Bangalore,0,Call,77
+670,documents family trip documents,Noida,0,SMS,0
+671,schedule hello invoice,Mumbai,0,SMS,0
+672,urgent bank alert win win win,Chennai,1,Call,28
+673,assignment schedule project update project update,Unknown,0,Call,292
+674,invoice schedule call me,Noida,0,SMS,0
+675,call me schedule hello assignment family trip,Hyderabad,0,Call,138
+676,blocked claim now lottery free gift,Delhi,1,Call,106
+677,schedule family trip schedule documents family trip call me,Mumbai,0,SMS,0
+678,project update schedule meeting call me dinner,Unknown,0,Call,19
+679,lottery KYC update investment scheme free gift win,Noida,1,Call,207
+680,free gift blocked bank alert,Pune,1,Call,75
+681,OTP bank alert bank alert free gift blocked OTP,Mumbai,1,Call,28
+682,schedule family trip hello,Bangalore,0,Call,133
+683,assignment documents hello invoice,Noida,0,Call,56
+684,invoice meeting family trip schedule call me,Mumbai,0,SMS,0
+685,OTP OTP win OTP,Noida,1,Call,121
+686,meeting hello invoice schedule schedule,Delhi,0,SMS,0
+687,project update documents call me documents call me,Kolkata,0,SMS,0
+688,assignment schedule project update dinner family trip invoice,Kolkata,0,SMS,0
+689,KYC update claim now KYC update investment scheme blocked,Mumbai,1,SMS,0
+690,meeting schedule dinner hello,Bangalore,0,SMS,0
+691,family trip hello meeting invoice,Noida,0,SMS,0
+692,project update invoice assignment project update invoice,Mumbai,0,SMS,0
+693,family trip invoice family trip family trip project update,Pune,0,SMS,0
+694,documents call me schedule hello call me,Bangalore,0,Call,217
+695,meeting documents call me project update,Pune,0,SMS,0
+696,meeting dinner documents call me meeting,Hyderabad,0,SMS,0
+697,dinner invoice meeting project update,Kolkata,0,SMS,0
+698,invoice project update call me schedule call me,Kolkata,0,Call,116
+699,invoice family trip call me,Noida,0,SMS,0
+700,invoice meeting assignment,Delhi,0,Call,105
+701,call me meeting project update,Mumbai,0,SMS,0
+702,documents schedule project update project update,Mumbai,0,SMS,0
+703,invoice family trip hello,Hyderabad,0,Call,287
+704,assignment family trip invoice schedule,Chennai,0,SMS,0
+705,assignment assignment invoice dinner,Delhi,0,Call,93
+706,win blocked urgent claim now urgent,Mumbai,1,Call,141
+707,documents invoice invoice assignment dinner,Delhi,0,SMS,0
+708,lottery free gift claim now urgent KYC update,Bangalore,1,SMS,0
+709,schedule hello dinner project update project update dinner,Noida,0,Call,160
+710,assignment assignment invoice documents call me invoice,Unknown,0,Call,154
+711,KYC update free gift KYC update investment scheme urgent,Bangalore,1,SMS,0
+712,documents hello assignment,Pune,0,SMS,0
+713,documents invoice dinner schedule,Kolkata,0,SMS,0
+714,project update family trip documents schedule,Unknown,0,Call,142
+715,schedule documents schedule hello schedule,Hyderabad,0,SMS,0
+716,investment scheme free gift KYC update OTP claim now,Chennai,1,Call,37
+717,win urgent OTP lottery win,Hyderabad,1,SMS,0
+718,claim now investment scheme OTP investment scheme,Mumbai,1,Call,144
+719,schedule family trip call me assignment call me,Unknown,0,Call,16
+720,project update family trip dinner hello,Kolkata,0,SMS,0
+721,free gift bank alert free gift blocked claim now,Noida,1,Call,81
+722,dinner invoice schedule call me schedule meeting,Chennai,0,Call,215
+723,call me family trip dinner schedule,Delhi,0,Call,178
+724,call me meeting invoice family trip documents,Mumbai,0,Call,178
+725,call me documents project update dinner call me assignment,Hyderabad,0,Call,62
+726,lottery OTP investment scheme win urgent claim now,Unknown,1,SMS,0
+727,family trip documents project update schedule,Hyderabad,0,SMS,0
+728,bank alert claim now OTP,Unknown,1,Call,171
+729,meeting documents assignment call me,Noida,0,SMS,0
+730,project update call me family trip call me assignment hello,Kolkata,0,Call,178
+731,family trip documents schedule documents,Delhi,0,Call,14
+732,free gift urgent bank alert OTP claim now,Noida,1,SMS,0
+733,meeting documents documents family trip dinner,Bangalore,0,Call,68
+734,call me call me family trip documents schedule,Kolkata,0,Call,212
+735,meeting family trip schedule schedule invoice assignment,Noida,0,Call,179
+736,KYC update lottery win urgent,Chennai,1,SMS,0
+737,hello invoice meeting call me hello call me,Hyderabad,0,SMS,0
+738,urgent free gift urgent lottery blocked,Kolkata,1,Call,216
+739,dinner schedule project update project update family trip project update,Chennai,0,Call,202
+740,family trip project update dinner schedule,Hyderabad,0,Call,103
+741,documents call me invoice project update,Bangalore,0,Call,196
+742,documents documents dinner meeting meeting project update,Pune,0,Call,285
+743,invoice project update project update family trip,Kolkata,0,SMS,0
+744,schedule schedule invoice,Chennai,0,SMS,0
+745,family trip documents family trip,Hyderabad,0,SMS,0
+746,win lottery KYC update claim now blocked,Hyderabad,1,SMS,0
+747,dinner hello hello family trip call me hello,Noida,0,Call,105
+748,project update assignment meeting meeting assignment,Unknown,0,Call,275
+749,OTP win urgent KYC update OTP,Noida,1,SMS,0
+750,project update family trip meeting,Chennai,0,SMS,0
+751,schedule invoice hello hello,Mumbai,0,Call,243
+752,urgent free gift claim now KYC update blocked claim now,Kolkata,1,SMS,0
+753,hello assignment invoice project update,Noida,0,Call,289
+754,invoice dinner family trip family trip family trip,Hyderabad,0,Call,250
+755,project update schedule family trip meeting project update,Hyderabad,0,Call,31
+756,OTP lottery lottery lottery blocked urgent,Pune,1,SMS,0
+757,dinner project update meeting,Kolkata,0,SMS,0
+758,assignment invoice schedule dinner family trip,Pune,0,SMS,0
+759,win OTP win investment scheme blocked,Bangalore,1,SMS,0
+760,blocked lottery blocked,Noida,1,SMS,0
+761,project update family trip meeting hello schedule assignment,Delhi,0,Call,258
+762,meeting project update schedule family trip call me assignment,Chennai,0,SMS,0
+763,project update assignment dinner call me schedule,Chennai,0,Call,282
+764,documents project update assignment,Bangalore,0,Call,87
+765,schedule documents family trip family trip,Kolkata,0,Call,99
+766,assignment meeting dinner,Noida,0,SMS,0
+767,lottery urgent win KYC update,Unknown,1,SMS,0
+768,investment scheme claim now investment scheme free gift blocked free gift,Pune,1,SMS,0
+769,family trip dinner documents family trip documents meeting,Bangalore,0,SMS,0
+770,bank alert lottery lottery blocked OTP,Unknown,1,SMS,0
+771,call me family trip invoice schedule,Pune,0,SMS,0
+772,free gift bank alert urgent free gift claim now investment scheme,Bangalore,1,SMS,0
+773,project update meeting project update schedule,Chennai,0,SMS,0
+774,assignment meeting family trip schedule invoice,Chennai,0,Call,272
+775,blocked bank alert free gift blocked,Hyderabad,1,SMS,0
+776,schedule call me invoice,Pune,0,Call,185
+777,project update call me project update meeting dinner hello,Delhi,0,Call,226
+778,family trip hello meeting call me meeting hello,Mumbai,0,Call,56
+779,hello family trip documents assignment meeting dinner,Kolkata,0,Call,213
+780,assignment meeting invoice schedule schedule,Kolkata,0,SMS,0
+781,hello schedule project update dinner,Pune,0,SMS,0
+782,schedule call me project update assignment project update meeting,Bangalore,0,Call,247
+783,hello family trip family trip invoice dinner,Bangalore,0,Call,136
+784,meeting family trip hello assignment family trip,Mumbai,0,Call,154
+785,call me project update family trip meeting schedule schedule,Noida,0,SMS,0
+786,investment scheme OTP investment scheme lottery urgent,Noida,1,Call,197
+787,schedule invoice hello,Mumbai,0,Call,46
+788,project update schedule assignment meeting schedule,Noida,0,SMS,0
+789,family trip schedule assignment call me call me schedule,Delhi,0,Call,254
+790,win lottery claim now,Hyderabad,1,SMS,0
+791,invoice schedule schedule,Noida,0,SMS,0
+792,call me assignment project update,Chennai,0,Call,26
+793,schedule invoice meeting dinner family trip,Delhi,0,Call,102
+794,schedule assignment schedule assignment project update,Noida,0,Call,155
+795,dinner hello meeting,Chennai,0,SMS,0
+796,lottery investment scheme free gift investment scheme,Mumbai,1,SMS,0
+797,free gift blocked claim now lottery,Mumbai,1,SMS,0
+798,project update assignment project update dinner project update,Pune,0,Call,194
+799,schedule invoice schedule family trip,Kolkata,0,Call,67
+800,investment scheme lottery investment scheme claim now KYC update KYC update,Unknown,1,Call,15
+801,family trip invoice documents,Chennai,0,Call,111
+802,documents documents meeting meeting documents,Pune,0,Call,149
+803,hello invoice project update invoice,Delhi,0,Call,118
+804,documents invoice dinner meeting,Noida,0,SMS,0
+805,meeting hello project update documents assignment,Bangalore,0,SMS,0
+806,hello hello project update schedule documents assignment,Chennai,0,SMS,0
+807,lottery win investment scheme urgent KYC update,Unknown,1,Call,298
+808,win lottery claim now lottery urgent,Bangalore,1,SMS,0
+809,project update dinner documents documents invoice,Hyderabad,0,SMS,0
+810,hello schedule call me,Unknown,0,SMS,0
+811,investment scheme urgent investment scheme,Pune,1,Call,38
+812,claim now investment scheme investment scheme lottery win KYC update,Unknown,1,Call,197
+813,call me project update meeting,Noida,0,SMS,0
+814,investment scheme free gift lottery lottery lottery,Delhi,1,Call,137
+815,blocked free gift lottery OTP investment scheme,Bangalore,1,Call,233
+816,call me documents dinner dinner hello,Unknown,0,Call,62
+817,family trip schedule dinner documents family trip,Noida,0,Call,66
+818,meeting meeting invoice assignment,Mumbai,0,SMS,0
+819,family trip assignment documents,Unknown,0,Call,82
+820,schedule family trip dinner schedule,Unknown,0,SMS,0
+821,claim now investment scheme investment scheme,Kolkata,1,SMS,0
+822,schedule meeting assignment invoice,Bangalore,0,Call,167
+823,dinner call me dinner dinner assignment project update,Kolkata,0,Call,229
+824,meeting assignment meeting documents project update assignment,Kolkata,0,Call,30
+825,hello dinner documents,Noida,0,SMS,0
+826,win investment scheme claim now OTP OTP,Kolkata,1,SMS,0
+827,meeting project update dinner,Unknown,0,SMS,0
+828,dinner call me schedule,Pune,0,SMS,0
+829,documents project update dinner call me project update,Pune,0,SMS,0
+830,family trip dinner family trip project update dinner,Mumbai,0,SMS,0
+831,family trip hello call me documents schedule,Pune,0,SMS,0
+832,call me family trip dinner,Mumbai,0,Call,182
+833,hello hello schedule,Pune,0,SMS,0
+834,hello call me assignment,Hyderabad,0,SMS,0
+835,hello schedule hello hello invoice,Mumbai,0,SMS,0
+836,call me family trip meeting,Chennai,0,SMS,0
+837,investment scheme KYC update blocked KYC update claim now bank alert,Bangalore,1,Call,54
+838,documents assignment documents call me,Bangalore,0,SMS,0
+839,schedule schedule assignment,Bangalore,0,SMS,0
+840,family trip schedule project update,Noida,0,Call,264
+841,invoice assignment assignment meeting meeting call me,Delhi,0,Call,100
+842,call me meeting schedule dinner,Mumbai,0,SMS,0
+843,assignment project update assignment hello family trip,Pune,0,SMS,0
+844,claim now urgent win,Mumbai,1,SMS,0
+845,hello call me project update meeting assignment,Kolkata,0,SMS,0
+846,project update family trip documents call me,Hyderabad,0,SMS,0
+847,invoice invoice project update documents assignment,Noida,0,SMS,0
+848,KYC update urgent investment scheme KYC update,Mumbai,1,Call,220
+849,dinner documents dinner assignment family trip,Delhi,0,Call,300
+850,project update hello family trip hello project update schedule,Bangalore,0,SMS,0
+851,dinner documents schedule schedule invoice meeting,Unknown,0,SMS,0
+852,assignment family trip family trip family trip,Chennai,0,SMS,0
+853,family trip assignment schedule assignment family trip,Bangalore,0,Call,71
+854,lottery free gift win bank alert blocked free gift,Pune,1,SMS,0
+855,assignment documents documents hello documents,Chennai,0,Call,169
+856,family trip hello invoice schedule documents meeting,Hyderabad,0,Call,219
+857,project update documents invoice dinner,Bangalore,0,SMS,0
+858,assignment assignment invoice dinner,Kolkata,0,Call,253
+859,assignment assignment assignment,Bangalore,0,SMS,0
+860,invoice schedule project update invoice dinner documents,Hyderabad,0,Call,128
+861,OTP OTP blocked,Bangalore,1,SMS,0
+862,meeting hello project update project update,Bangalore,0,SMS,0
+863,meeting hello project update,Kolkata,0,Call,154
+864,dinner call me call me project update,Noida,0,Call,227
+865,family trip project update documents documents hello assignment,Hyderabad,0,Call,294
+866,schedule dinner meeting project update assignment assignment,Kolkata,0,SMS,0
+867,dinner meeting documents invoice,Mumbai,0,Call,138
+868,dinner assignment call me project update hello call me,Bangalore,0,Call,135
+869,investment scheme OTP bank alert lottery blocked win,Delhi,1,SMS,0
+870,KYC update claim now blocked,Bangalore,1,SMS,0
+871,project update invoice hello assignment family trip,Hyderabad,0,Call,52
+872,call me call me assignment documents,Chennai,0,Call,115
+873,assignment assignment project update project update hello family trip,Kolkata,0,Call,183
+874,project update hello schedule assignment assignment documents,Delhi,0,SMS,0
+875,schedule documents invoice hello hello,Mumbai,0,SMS,0
+876,assignment dinner invoice hello project update assignment,Pune,0,Call,155
+877,documents schedule documents call me dinner hello,Mumbai,0,SMS,0
+878,family trip meeting dinner assignment hello schedule,Kolkata,0,Call,209
+879,hello meeting schedule documents,Chennai,0,Call,283
+880,schedule dinner documents hello assignment invoice,Kolkata,0,SMS,0
+881,assignment hello meeting invoice,Unknown,0,Call,82
+882,hello family trip dinner,Delhi,0,Call,146
+883,family trip documents call me hello,Chennai,0,SMS,0
+884,project update project update schedule assignment assignment,Delhi,0,Call,102
+885,investment scheme bank alert urgent KYC update lottery,Kolkata,1,Call,263
+886,schedule documents invoice documents,Noida,0,SMS,0
+887,hello call me assignment invoice,Delhi,0,Call,297
+888,family trip hello call me,Unknown,0,Call,156
+889,family trip call me assignment family trip,Chennai,0,SMS,0
+890,dinner project update documents dinner invoice schedule,Unknown,0,SMS,0
+891,project update dinner hello call me,Unknown,0,SMS,0
+892,claim now KYC update win,Pune,1,Call,95
+893,free gift claim now OTP win claim now,Noida,1,SMS,0
+894,dinner invoice project update assignment,Bangalore,0,Call,93
+895,dinner hello project update assignment meeting schedule,Noida,0,SMS,0
+896,assignment meeting documents call me assignment family trip,Hyderabad,0,Call,291
+897,schedule assignment meeting family trip schedule family trip,Pune,0,Call,139
+898,urgent lottery claim now urgent,Kolkata,1,SMS,0
+899,schedule schedule project update meeting documents,Kolkata,0,Call,85
+900,documents schedule documents call me project update schedule,Mumbai,0,Call,182
+901,documents meeting assignment invoice,Bangalore,0,SMS,0
+902,dinner dinner call me,Hyderabad,0,Call,125
+903,family trip meeting family trip project update,Delhi,0,Call,131
+904,invoice project update schedule meeting schedule hello,Noida,0,Call,191
+905,documents dinner assignment schedule,Chennai,0,SMS,0
+906,bank alert KYC update urgent,Unknown,1,SMS,0
+907,OTP KYC update KYC update,Delhi,1,SMS,0
+908,meeting project update hello,Mumbai,0,SMS,0
+909,call me project update dinner,Noida,0,SMS,0
+910,dinner dinner dinner call me schedule invoice,Chennai,0,SMS,0
+911,hello dinner project update project update hello,Mumbai,0,SMS,0
+912,schedule assignment assignment invoice schedule,Unknown,0,SMS,0
+913,hello assignment assignment assignment family trip,Pune,0,Call,291
+914,call me hello documents meeting,Bangalore,0,Call,143
+915,meeting schedule hello hello,Pune,0,Call,271
+916,meeting invoice meeting hello,Chennai,0,Call,194
+917,assignment invoice dinner documents family trip,Pune,0,SMS,0
+918,free gift urgent win lottery,Chennai,1,Call,298
+919,blocked lottery lottery urgent,Hyderabad,1,Call,277
+920,assignment assignment family trip,Hyderabad,0,Call,245
+921,claim now lottery OTP investment scheme KYC update,Pune,1,Call,33
+922,documents schedule dinner dinner,Kolkata,0,Call,114
+923,bank alert bank alert claim now KYC update blocked,Pune,1,SMS,0
+924,KYC update win bank alert claim now,Pune,1,SMS,0
+925,call me meeting meeting call me assignment,Kolkata,0,Call,257
+926,hello call me invoice documents call me,Bangalore,0,Call,47
+927,invoice family trip schedule dinner dinner,Noida,0,Call,145
+928,project update hello documents schedule schedule,Kolkata,0,Call,176
+929,family trip call me hello meeting,Chennai,0,SMS,0
+930,schedule invoice meeting,Noida,0,Call,140
+931,project update call me call me,Unknown,0,SMS,0
+932,blocked OTP bank alert investment scheme investment scheme urgent,Bangalore,1,Call,30
+933,claim now lottery win urgent free gift,Unknown,1,SMS,0
+934,meeting hello schedule project update,Delhi,0,SMS,0
+935,hello family trip schedule meeting,Hyderabad,0,SMS,0
+936,schedule dinner documents,Unknown,0,Call,39
+937,dinner family trip invoice hello dinner,Mumbai,0,Call,218
+938,blocked claim now urgent free gift blocked KYC update,Pune,1,SMS,0
+939,project update assignment invoice,Chennai,0,Call,233
+940,call me project update meeting documents call me schedule,Unknown,0,Call,171
+941,meeting meeting invoice,Unknown,0,SMS,0
+942,documents call me family trip,Delhi,0,Call,206
+943,call me dinner meeting,Pune,0,SMS,0
+944,KYC update lottery lottery investment scheme,Pune,1,Call,76
+945,schedule family trip project update project update,Delhi,0,Call,209
+946,schedule meeting project update documents family trip project update,Kolkata,0,SMS,0
+947,schedule dinner project update family trip,Delhi,0,SMS,0
+948,claim now claim now blocked,Mumbai,1,SMS,0
+949,free gift free gift win KYC update urgent OTP,Noida,1,SMS,0
+950,dinner invoice project update,Mumbai,0,Call,199
+951,family trip schedule dinner,Delhi,0,Call,38
+952,family trip schedule dinner,Hyderabad,0,Call,20
+953,documents invoice meeting schedule,Kolkata,0,SMS,0
+954,claim now investment scheme KYC update win investment scheme bank alert,Hyderabad,1,Call,93
+955,schedule project update project update assignment,Mumbai,0,Call,81
+956,assignment meeting dinner,Pune,0,Call,58
+957,schedule invoice call me schedule schedule,Mumbai,0,SMS,0
+958,schedule project update family trip project update,Bangalore,0,SMS,0
+959,family trip assignment call me project update family trip project update,Chennai,0,Call,267
+960,hello project update call me call me,Bangalore,0,Call,94
+961,family trip family trip assignment call me,Delhi,0,SMS,0
+962,call me meeting schedule documents project update dinner,Unknown,0,SMS,0
+963,assignment schedule documents meeting dinner family trip,Hyderabad,0,SMS,0
+964,call me hello assignment invoice call me hello,Noida,0,SMS,0
+965,documents family trip dinner,Bangalore,0,Call,285
+966,documents call me call me,Kolkata,0,SMS,0
+967,dinner invoice hello documents family trip call me,Hyderabad,0,Call,278
+968,documents invoice documents,Bangalore,0,SMS,0
+969,dinner family trip meeting dinner documents,Pune,0,Call,163
+970,meeting call me meeting,Chennai,0,Call,296
+971,invoice project update invoice dinner,Mumbai,0,SMS,0
+972,win urgent investment scheme bank alert OTP free gift,Mumbai,1,Call,115
+973,call me assignment documents hello dinner schedule,Bangalore,0,Call,257
+974,schedule invoice invoice hello documents,Delhi,0,Call,197
+975,assignment meeting invoice,Kolkata,0,SMS,0
+976,documents family trip call me call me documents,Delhi,0,SMS,0
+977,hello assignment schedule hello,Hyderabad,0,SMS,0
+978,documents assignment assignment dinner project update,Chennai,0,Call,202
+979,call me documents schedule project update family trip,Chennai,0,Call,95
+980,invoice dinner invoice project update,Mumbai,0,Call,159
+981,project update invoice schedule,Chennai,0,Call,206
+982,OTP lottery bank alert OTP bank alert,Delhi,1,SMS,0
+983,family trip project update family trip,Kolkata,0,Call,55
+984,dinner invoice meeting documents hello meeting,Kolkata,0,Call,151
+985,dinner meeting family trip project update,Mumbai,0,Call,238
+986,hello schedule project update family trip,Bangalore,0,SMS,0
+987,family trip hello hello call me assignment,Kolkata,0,Call,45
+988,assignment project update schedule meeting family trip family trip,Delhi,0,SMS,0
+989,call me project update project update invoice,Unknown,0,SMS,0
+990,KYC update OTP KYC update OTP,Bangalore,1,Call,91
+991,urgent blocked investment scheme investment scheme OTP,Noida,1,Call,265
+992,assignment hello family trip hello schedule,Pune,0,Call,44
+993,project update hello assignment call me invoice family trip,Chennai,0,Call,114
+994,assignment call me schedule,Chennai,0,SMS,0
+995,dinner call me documents dinner meeting family trip,Unknown,0,SMS,0
+996,assignment meeting hello schedule,Bangalore,0,SMS,0
+997,bank alert win urgent,Mumbai,1,SMS,0
+998,project update meeting call me call me schedule meeting,Delhi,0,SMS,0
+999,claim now bank alert urgent,Unknown,1,SMS,0
+1000,call me call me project update,Pune,0,SMS,0
+1001,project update assignment hello,Kolkata,0,SMS,0
+1002,invoice project update project update,Mumbai,0,SMS,0
+1003,bank alert investment scheme win,Noida,1,SMS,0
+1004,dinner family trip hello meeting family trip meeting,Mumbai,0,Call,117
+1005,free gift investment scheme KYC update,Unknown,1,Call,64
+1006,assignment hello assignment family trip assignment,Unknown,0,Call,158
+1007,documents hello meeting hello call me,Unknown,0,SMS,0
+1008,urgent blocked OTP,Unknown,1,Call,31
+1009,hello project update family trip family trip,Mumbai,0,SMS,0
+1010,assignment assignment family trip,Unknown,0,SMS,0
+1011,invoice documents documents meeting hello,Bangalore,0,Call,201
+1012,OTP bank alert KYC update blocked free gift,Mumbai,1,SMS,0
+1013,bank alert KYC update blocked urgent blocked investment scheme,Kolkata,1,Call,235
+1014,project update invoice invoice assignment assignment,Bangalore,0,SMS,0
+1015,family trip dinner dinner family trip hello family trip,Pune,0,SMS,0
+1016,OTP OTP claim now,Kolkata,1,Call,35
+1017,documents family trip family trip hello,Noida,0,Call,225
+1018,meeting invoice invoice invoice,Chennai,0,Call,222
+1019,blocked investment scheme free gift lottery,Mumbai,1,Call,146
+1020,documents schedule hello assignment schedule,Chennai,0,Call,118
+1021,assignment dinner invoice assignment project update invoice,Mumbai,0,Call,108
+1022,invoice hello meeting schedule assignment,Kolkata,0,SMS,0
+1023,investment scheme urgent claim now bank alert free gift bank alert,Noida,1,SMS,0
+1024,investment scheme bank alert KYC update win investment scheme,Delhi,1,SMS,0
+1025,investment scheme win OTP win bank alert KYC update,Delhi,1,SMS,0
+1026,dinner schedule documents dinner meeting meeting,Bangalore,0,Call,131
+1027,lottery lottery KYC update,Unknown,1,SMS,0
+1028,urgent claim now free gift OTP,Unknown,1,SMS,0
+1029,documents family trip assignment,Delhi,0,Call,46
+1030,lottery blocked investment scheme free gift blocked urgent,Kolkata,1,SMS,0
+1031,documents meeting call me family trip invoice,Noida,0,Call,32
+1032,project update meeting assignment call me dinner,Bangalore,0,Call,197
+1033,hello call me assignment,Kolkata,0,Call,281
+1034,project update project update schedule,Unknown,0,SMS,0
+1035,invoice assignment project update,Bangalore,0,Call,137
+1036,schedule schedule schedule call me schedule,Chennai,0,SMS,0
+1037,meeting assignment meeting,Hyderabad,0,SMS,0
+1038,hello project update invoice schedule,Pune,0,SMS,0
+1039,dinner dinner project update,Bangalore,0,Call,198
+1040,hello dinner meeting documents,Unknown,0,Call,149
+1041,call me family trip dinner invoice schedule,Kolkata,0,Call,24
+1042,claim now investment scheme free gift lottery KYC update,Chennai,1,SMS,0
+1043,call me family trip documents dinner,Pune,0,SMS,0
+1044,hello hello dinner dinner dinner,Pune,0,Call,92
+1045,urgent urgent KYC update win win,Bangalore,1,SMS,0
+1046,invoice project update family trip project update hello,Pune,0,Call,235
+1047,dinner schedule schedule family trip assignment,Chennai,0,Call,279
+1048,hello meeting call me invoice,Noida,0,SMS,0
+1049,lottery KYC update win urgent,Kolkata,1,SMS,0
+1050,meeting call me assignment,Bangalore,0,Call,187
+1051,OTP investment scheme free gift urgent,Pune,1,SMS,0
+1052,project update call me invoice call me,Noida,0,Call,74
+1053,KYC update win urgent OTP OTP,Kolkata,1,Call,136
+1054,free gift KYC update lottery investment scheme,Mumbai,1,SMS,0
+1055,investment scheme investment scheme lottery KYC update,Noida,1,Call,107
+1056,assignment invoice meeting meeting dinner dinner,Mumbai,0,SMS,0
+1057,win claim now claim now win,Mumbai,1,Call,196
+1058,invoice family trip documents assignment,Noida,0,SMS,0
+1059,dinner project update project update,Pune,0,SMS,0
+1060,invoice meeting schedule call me call me,Mumbai,0,Call,63
+1061,win investment scheme bank alert,Pune,1,SMS,0
+1062,investment scheme win investment scheme urgent investment scheme claim now,Pune,1,SMS,0
+1063,claim now bank alert urgent OTP lottery,Kolkata,1,Call,281
+1064,dinner hello documents,Chennai,0,SMS,0
+1065,project update hello family trip hello invoice assignment,Pune,0,Call,21
+1066,meeting call me project update call me assignment,Kolkata,0,SMS,0
+1067,invoice invoice assignment project update call me dinner,Hyderabad,0,Call,158
+1068,invoice call me schedule call me schedule schedule,Mumbai,0,Call,110
+1069,invoice project update family trip,Bangalore,0,Call,192
+1070,invoice project update project update hello assignment,Pune,0,Call,262
+1071,assignment assignment documents invoice project update hello,Noida,0,SMS,0
+1072,schedule family trip family trip,Mumbai,0,Call,147
+1073,schedule call me call me assignment,Mumbai,0,SMS,0
+1074,invoice documents hello family trip assignment,Hyderabad,0,Call,44
+1075,lottery investment scheme lottery urgent win,Bangalore,1,SMS,0
+1076,schedule project update assignment project update,Kolkata,0,Call,192
+1077,hello dinner documents dinner family trip hello,Hyderabad,0,SMS,0
+1078,project update documents project update invoice,Chennai,0,SMS,0
+1079,invoice call me dinner documents invoice,Mumbai,0,Call,287
+1080,free gift KYC update blocked,Pune,1,Call,136
+1081,free gift OTP blocked investment scheme free gift,Pune,1,Call,295
+1082,project update assignment schedule invoice,Hyderabad,0,SMS,0
+1083,meeting call me hello,Chennai,0,SMS,0
+1084,free gift lottery OTP OTP,Delhi,1,SMS,0
+1085,investment scheme blocked KYC update investment scheme,Unknown,1,SMS,0
+1086,hello hello meeting assignment,Noida,0,Call,190
+1087,hello family trip meeting,Noida,0,Call,116
+1088,schedule meeting project update,Delhi,0,Call,267
+1089,win KYC update investment scheme OTP,Mumbai,1,Call,237
+1090,meeting assignment meeting meeting,Kolkata,0,SMS,0
+1091,bank alert win lottery bank alert win,Bangalore,1,SMS,0
+1092,family trip assignment documents,Delhi,0,Call,218
+1093,project update invoice documents,Chennai,0,SMS,0
+1094,assignment meeting schedule assignment family trip,Pune,0,Call,91
+1095,family trip family trip family trip assignment schedule call me,Unknown,0,SMS,0
+1096,family trip call me schedule schedule,Mumbai,0,SMS,0
+1097,documents project update invoice hello invoice,Unknown,0,SMS,0
+1098,assignment hello schedule invoice dinner,Bangalore,0,SMS,0
+1099,win claim now win,Pune,1,SMS,0
+1100,call me assignment project update call me family trip call me,Chennai,0,SMS,0
+1101,assignment documents family trip schedule meeting call me,Noida,0,Call,106
+1102,free gift win OTP claim now,Bangalore,1,SMS,0
+1103,urgent KYC update free gift,Delhi,1,Call,82
+1104,claim now urgent KYC update lottery win claim now,Noida,1,Call,245
+1105,win KYC update blocked free gift,Noida,1,Call,161
+1106,family trip dinner schedule assignment call me family trip,Chennai,0,Call,82
+1107,assignment invoice assignment meeting call me project update,Delhi,0,Call,249
+1108,blocked OTP win,Hyderabad,1,Call,244
+1109,family trip call me documents assignment,Bangalore,0,SMS,0
+1110,call me assignment invoice meeting,Kolkata,0,SMS,0
+1111,KYC update free gift bank alert investment scheme,Pune,1,SMS,0
+1112,project update invoice family trip schedule,Chennai,0,Call,296
+1113,hello invoice meeting,Pune,0,Call,41
+1114,hello assignment family trip schedule,Bangalore,0,Call,11
+1115,dinner meeting documents,Delhi,0,SMS,0
+1116,assignment dinner call me schedule project update documents,Kolkata,0,SMS,0
+1117,family trip schedule hello invoice hello hello,Unknown,0,SMS,0
+1118,free gift lottery win blocked lottery,Kolkata,1,Call,177
+1119,schedule hello call me schedule invoice project update,Chennai,0,Call,251
+1120,documents invoice call me project update,Pune,0,Call,148
+1121,OTP KYC update KYC update investment scheme KYC update urgent,Kolkata,1,SMS,0
+1122,KYC update urgent bank alert urgent win claim now,Mumbai,1,Call,37
+1123,win claim now investment scheme bank alert,Delhi,1,Call,103
+1124,claim now claim now free gift,Delhi,1,Call,182
+1125,meeting meeting call me hello,Mumbai,0,Call,217
+1126,call me invoice invoice call me call me hello,Noida,0,SMS,0
+1127,project update family trip schedule invoice,Noida,0,SMS,0
+1128,family trip call me hello dinner hello,Bangalore,0,Call,223
+1129,documents documents family trip meeting documents,Hyderabad,0,Call,124
+1130,documents project update dinner project update dinner,Unknown,0,SMS,0
+1131,assignment schedule invoice documents,Mumbai,0,SMS,0
+1132,invoice documents project update schedule,Bangalore,0,Call,117
+1133,project update project update dinner meeting hello family trip,Pune,0,SMS,0
+1134,invoice assignment documents,Mumbai,0,SMS,0
+1135,project update meeting project update schedule dinner assignment,Hyderabad,0,Call,186
+1136,hello schedule call me assignment project update,Mumbai,0,SMS,0
+1137,OTP KYC update lottery,Hyderabad,1,SMS,0
+1138,meeting invoice hello meeting,Hyderabad,0,SMS,0
+1139,schedule invoice meeting assignment,Hyderabad,0,SMS,0
+1140,dinner call me hello schedule documents project update,Delhi,0,Call,118
+1141,OTP lottery OTP blocked,Kolkata,1,SMS,0
+1142,project update invoice meeting,Delhi,0,SMS,0
+1143,family trip meeting call me family trip call me,Bangalore,0,Call,274
+1144,documents hello project update dinner,Delhi,0,SMS,0
+1145,invoice dinner assignment,Delhi,0,Call,22
+1146,investment scheme blocked KYC update investment scheme lottery OTP,Pune,1,Call,11
+1147,free gift investment scheme blocked free gift,Mumbai,1,SMS,0
+1148,meeting hello project update dinner,Delhi,0,SMS,0
+1149,lottery claim now bank alert blocked urgent claim now,Hyderabad,1,SMS,0
+1150,win claim now KYC update bank alert,Mumbai,1,SMS,0
+1151,call me dinner family trip schedule meeting,Noida,0,SMS,0
+1152,OTP lottery KYC update,Pune,1,Call,33
+1153,family trip project update assignment,Kolkata,0,SMS,0
+1154,invoice assignment family trip schedule assignment documents,Pune,0,Call,20
+1155,assignment meeting documents,Hyderabad,0,SMS,0
+1156,urgent investment scheme blocked bank alert claim now urgent,Mumbai,1,Call,230
+1157,project update project update hello assignment invoice call me,Kolkata,0,SMS,0
+1158,blocked urgent bank alert investment scheme bank alert free gift,Unknown,1,SMS,0
+1159,KYC update free gift lottery,Chennai,1,SMS,0
+1160,schedule dinner schedule,Pune,0,SMS,0
+1161,free gift KYC update KYC update win investment scheme,Kolkata,1,SMS,0
+1162,project update dinner dinner dinner family trip,Bangalore,0,Call,287
+1163,project update family trip schedule assignment call me,Kolkata,0,SMS,0
+1164,documents project update documents hello project update schedule,Chennai,0,SMS,0
+1165,project update family trip assignment call me,Hyderabad,0,SMS,0
+1166,claim now free gift free gift KYC update OTP,Mumbai,1,Call,228
+1167,blocked OTP claim now KYC update,Unknown,1,SMS,0
+1168,assignment call me family trip,Bangalore,0,Call,79
+1169,hello dinner project update schedule hello,Kolkata,0,SMS,0
+1170,dinner documents invoice invoice call me,Delhi,0,Call,152
+1171,call me hello hello assignment project update meeting,Hyderabad,0,SMS,0
+1172,blocked free gift lottery lottery win bank alert,Pune,1,SMS,0
+1173,family trip call me dinner project update,Pune,0,Call,98
+1174,project update schedule meeting schedule meeting,Chennai,0,SMS,0
+1175,family trip call me documents,Hyderabad,0,Call,132
+1176,family trip project update documents,Bangalore,0,SMS,0
+1177,KYC update blocked blocked bank alert win,Noida,1,SMS,0
+1178,documents family trip family trip documents meeting,Unknown,0,Call,143
+1179,win claim now blocked,Bangalore,1,SMS,0
+1180,schedule schedule hello project update family trip,Unknown,0,Call,155
+1181,investment scheme free gift urgent investment scheme win,Mumbai,1,Call,148
+1182,project update documents documents assignment,Mumbai,0,SMS,0
+1183,family trip hello documents dinner dinner,Hyderabad,0,SMS,0
+1184,KYC update lottery lottery,Hyderabad,1,SMS,0
+1185,project update documents schedule assignment,Pune,0,Call,134
+1186,claim now KYC update win,Delhi,1,Call,15
+1187,schedule documents schedule,Chennai,0,SMS,0
+1188,schedule hello project update family trip dinner,Delhi,0,Call,143
+1189,assignment project update invoice,Bangalore,0,Call,35
+1190,schedule family trip hello call me assignment assignment,Pune,0,Call,53
+1191,dinner call me documents call me schedule schedule,Unknown,0,Call,279
+1192,schedule schedule project update assignment call me assignment,Noida,0,SMS,0
+1193,invoice call me project update invoice assignment invoice,Kolkata,0,SMS,0
+1194,dinner invoice call me,Mumbai,0,SMS,0
+1195,schedule schedule documents,Delhi,0,Call,292
+1196,investment scheme urgent free gift free gift KYC update lottery,Chennai,1,Call,62
+1197,investment scheme free gift bank alert free gift KYC update claim now,Noida,1,Call,252
+1198,win win bank alert bank alert,Noida,1,Call,94
+1199,documents project update invoice,Mumbai,0,SMS,0
+1200,project update meeting assignment,Hyderabad,0,Call,207
+1201,win OTP blocked KYC update,Noida,1,Call,139
+1202,family trip meeting family trip,Bangalore,0,SMS,0
+1203,documents call me meeting,Bangalore,0,SMS,0
+1204,dinner meeting documents hello,Hyderabad,0,SMS,0
+1205,meeting documents invoice assignment project update invoice,Unknown,0,Call,107
+1206,blocked OTP free gift win OTP KYC update,Pune,1,Call,200
+1207,family trip dinner project update invoice,Hyderabad,0,Call,242
+1208,call me schedule documents project update family trip documents,Bangalore,0,Call,18
+1209,schedule call me meeting,Noida,0,Call,143
+1210,bank alert blocked bank alert KYC update,Bangalore,1,Call,81
+1211,documents project update meeting meeting dinner family trip,Kolkata,0,SMS,0
+1212,invoice meeting meeting hello assignment hello,Pune,0,Call,69
+1213,hello assignment family trip documents call me,Chennai,0,SMS,0
+1214,claim now lottery urgent,Kolkata,1,SMS,0
+1215,invoice documents assignment invoice,Unknown,0,SMS,0
+1216,meeting invoice call me assignment invoice,Mumbai,0,Call,195
+1217,meeting meeting invoice,Kolkata,0,Call,212
+1218,family trip dinner schedule hello assignment schedule,Unknown,0,SMS,0
+1219,documents documents meeting documents family trip,Unknown,0,Call,198
+1220,dinner documents call me dinner family trip schedule,Chennai,0,Call,82
+1221,urgent urgent OTP bank alert,Mumbai,1,SMS,0
+1222,documents meeting assignment schedule schedule,Delhi,0,Call,163
+1223,schedule schedule assignment assignment documents invoice,Hyderabad,0,Call,28
+1224,claim now win OTP OTP,Noida,1,Call,190
+1225,dinner invoice documents meeting project update,Delhi,0,Call,223
+1226,project update documents meeting,Hyderabad,0,SMS,0
+1227,dinner assignment hello invoice,Hyderabad,0,SMS,0
+1228,schedule documents invoice schedule,Noida,0,Call,26
+1229,KYC update KYC update investment scheme bank alert KYC update,Mumbai,1,Call,110
+1230,invoice call me call me schedule,Unknown,0,Call,60
+1231,OTP bank alert free gift OTP,Hyderabad,1,SMS,0
+1232,hello schedule project update family trip documents,Unknown,0,Call,288
+1233,meeting dinner meeting meeting assignment documents,Chennai,0,Call,151
+1234,schedule assignment meeting,Kolkata,0,SMS,0
+1235,project update dinner meeting call me,Unknown,0,Call,286
+1236,documents documents documents family trip family trip,Mumbai,0,SMS,0
+1237,KYC update claim now urgent,Noida,1,Call,206
+1238,assignment schedule meeting invoice schedule,Unknown,0,SMS,0
+1239,investment scheme claim now OTP,Noida,1,Call,217
+1240,project update family trip assignment dinner call me project update,Pune,0,Call,56
+1241,bank alert blocked bank alert claim now KYC update win,Hyderabad,1,SMS,0
+1242,blocked claim now investment scheme urgent bank alert,Chennai,1,SMS,0
+1243,investment scheme blocked claim now,Kolkata,1,SMS,0
+1244,KYC update bank alert urgent KYC update,Mumbai,1,SMS,0
+1245,OTP claim now investment scheme bank alert bank alert blocked,Chennai,1,SMS,0
+1246,dinner call me schedule hello project update,Kolkata,0,Call,212
+1247,project update family trip documents meeting,Chennai,0,SMS,0
+1248,family trip project update project update,Chennai,0,SMS,0
+1249,OTP investment scheme lottery,Bangalore,1,SMS,0
+1250,family trip schedule documents,Hyderabad,0,SMS,0
+1251,OTP bank alert claim now free gift bank alert urgent,Delhi,1,Call,212
+1252,project update meeting meeting assignment,Kolkata,0,Call,152
+1253,call me dinner project update meeting dinner schedule,Mumbai,0,Call,97
+1254,assignment family trip family trip,Unknown,0,Call,138
+1255,invoice project update dinner hello,Chennai,0,Call,195
+1256,meeting documents documents family trip,Chennai,0,SMS,0
+1257,hello documents call me call me,Kolkata,0,Call,292
+1258,project update hello call me,Pune,0,Call,34
+1259,call me family trip documents project update,Delhi,0,SMS,0
+1260,dinner schedule meeting,Chennai,0,SMS,0
+1261,meeting assignment schedule,Bangalore,0,Call,12
+1262,OTP lottery lottery urgent,Noida,1,Call,258
+1263,hello hello dinner documents,Bangalore,0,SMS,0
+1264,schedule invoice schedule assignment,Delhi,0,Call,151
+1265,meeting schedule meeting schedule assignment documents,Bangalore,0,SMS,0
+1266,invoice call me dinner dinner invoice,Noida,0,SMS,0
+1267,schedule call me assignment,Unknown,0,Call,121
+1268,hello schedule documents meeting project update schedule,Hyderabad,0,Call,23
+1269,project update schedule invoice,Unknown,0,Call,272
+1270,project update schedule dinner project update,Hyderabad,0,SMS,0
+1271,schedule hello meeting hello call me,Pune,0,SMS,0
+1272,OTP bank alert blocked KYC update win claim now,Pune,1,Call,236
+1273,blocked bank alert investment scheme,Pune,1,Call,32
+1274,schedule invoice schedule call me,Bangalore,0,Call,71
+1275,family trip schedule project update call me dinner,Pune,0,SMS,0
+1276,assignment family trip meeting invoice hello schedule,Hyderabad,0,SMS,0
+1277,invoice invoice meeting meeting,Unknown,0,SMS,0
+1278,free gift bank alert win,Kolkata,1,Call,172
+1279,assignment meeting meeting hello dinner meeting,Chennai,0,SMS,0
+1280,dinner call me project update,Hyderabad,0,SMS,0
+1281,invoice meeting schedule dinner hello assignment,Unknown,0,Call,91
+1282,hello meeting family trip invoice project update schedule,Unknown,0,SMS,0
+1283,family trip hello dinner dinner family trip dinner,Chennai,0,Call,172
+1284,hello family trip hello schedule,Kolkata,0,SMS,0
+1285,invoice assignment schedule schedule dinner meeting,Unknown,0,Call,24
+1286,documents dinner meeting hello documents,Noida,0,Call,245
+1287,dinner documents documents,Mumbai,0,SMS,0
+1288,call me invoice call me,Hyderabad,0,Call,279
+1289,meeting project update family trip assignment project update,Bangalore,0,SMS,0
+1290,family trip meeting meeting,Pune,0,Call,289
+1291,hello assignment invoice documents call me call me,Bangalore,0,Call,190
+1292,meeting call me meeting documents meeting,Delhi,0,Call,253
+1293,hello invoice schedule dinner,Noida,0,SMS,0
+1294,invoice invoice project update assignment,Bangalore,0,Call,208
+1295,investment scheme bank alert urgent blocked OTP OTP,Chennai,1,Call,166
+1296,assignment invoice hello family trip meeting,Mumbai,0,SMS,0
+1297,family trip project update family trip invoice documents invoice,Kolkata,0,Call,189
+1298,assignment documents call me documents family trip,Chennai,0,Call,143
+1299,family trip family trip call me assignment meeting,Noida,0,Call,166
+1300,dinner assignment family trip assignment,Noida,0,Call,260
+1301,project update schedule schedule dinner dinner meeting,Mumbai,0,SMS,0
+1302,win claim now investment scheme blocked blocked claim now,Unknown,1,Call,178
+1303,schedule invoice assignment project update,Bangalore,0,Call,107
+1304,family trip call me family trip call me,Pune,0,SMS,0
+1305,documents dinner assignment family trip,Pune,0,Call,220
+1306,claim now win win OTP,Bangalore,1,Call,252
+1307,project update project update dinner,Mumbai,0,SMS,0
+1308,claim now blocked win blocked urgent win,Unknown,1,SMS,0
+1309,assignment schedule family trip,Kolkata,0,SMS,0
+1310,investment scheme KYC update lottery,Mumbai,1,SMS,0
+1311,project update documents meeting call me,Pune,0,Call,274
+1312,win KYC update urgent OTP KYC update blocked,Noida,1,SMS,0
+1313,dinner family trip dinner,Noida,0,Call,125
+1314,win lottery lottery,Delhi,1,SMS,0
+1315,documents dinner hello,Hyderabad,0,Call,99
+1316,documents schedule documents documents family trip,Chennai,0,SMS,0
+1317,assignment project update family trip meeting meeting,Chennai,0,SMS,0
+1318,call me call me hello meeting,Pune,0,Call,142
+1319,assignment family trip schedule assignment,Chennai,0,SMS,0
+1320,call me dinner assignment assignment,Chennai,0,SMS,0
+1321,assignment assignment assignment call me,Mumbai,0,SMS,0
+1322,meeting documents assignment,Kolkata,0,Call,173
+1323,investment scheme win lottery blocked OTP,Pune,1,SMS,0
+1324,schedule dinner invoice family trip project update meeting,Delhi,0,SMS,0
+1325,lottery claim now urgent,Kolkata,1,Call,58
+1326,hello call me dinner documents dinner invoice,Delhi,0,Call,202
+1327,invoice family trip project update,Pune,0,SMS,0
+1328,investment scheme OTP claim now bank alert,Unknown,1,Call,142
+1329,call me schedule hello meeting call me,Unknown,0,Call,43
+1330,hello schedule call me family trip hello meeting,Chennai,0,Call,185
+1331,assignment family trip documents meeting project update dinner,Noida,0,SMS,0
+1332,project update invoice assignment documents documents,Mumbai,0,SMS,0
+1333,dinner hello dinner invoice project update,Chennai,0,Call,81
+1334,blocked win lottery,Hyderabad,1,SMS,0
+1335,investment scheme free gift claim now free gift claim now OTP,Unknown,1,Call,46
+1336,assignment meeting assignment hello invoice,Chennai,0,SMS,0
+1337,call me invoice hello invoice,Noida,0,Call,13
+1338,assignment family trip invoice schedule schedule,Delhi,0,SMS,0
+1339,documents schedule invoice invoice family trip,Delhi,0,Call,82
+1340,schedule project update invoice meeting,Bangalore,0,SMS,0
+1341,meeting call me family trip hello project update invoice,Mumbai,0,SMS,0
+1342,assignment dinner dinner hello documents assignment,Delhi,0,Call,224
+1343,urgent KYC update urgent bank alert free gift blocked,Bangalore,1,SMS,0
+1344,family trip assignment hello project update assignment,Unknown,0,SMS,0
+1345,assignment schedule project update meeting schedule,Delhi,0,SMS,0
+1346,hello meeting dinner dinner assignment,Chennai,0,SMS,0
+1347,schedule invoice project update meeting,Noida,0,SMS,0
+1348,project update schedule assignment family trip dinner meeting,Hyderabad,0,SMS,0
+1349,lottery KYC update lottery OTP,Delhi,1,SMS,0
+1350,meeting meeting project update,Hyderabad,0,SMS,0
+1351,investment scheme free gift lottery claim now,Hyderabad,1,Call,234
+1352,assignment documents hello,Hyderabad,0,SMS,0
+1353,project update hello family trip meeting dinner invoice,Kolkata,0,Call,196
+1354,project update hello meeting dinner dinner,Hyderabad,0,SMS,0
+1355,family trip assignment invoice call me invoice,Kolkata,0,Call,169
+1356,bank alert OTP investment scheme win,Noida,1,SMS,0
+1357,investment scheme bank alert bank alert win win,Hyderabad,1,Call,120
+1358,project update assignment meeting,Bangalore,0,Call,151
+1359,hello documents project update hello documents assignment,Hyderabad,0,SMS,0
+1360,hello project update call me family trip,Pune,0,Call,120
+1361,KYC update urgent urgent KYC update win claim now,Mumbai,1,SMS,0
+1362,project update assignment project update,Bangalore,0,SMS,0
+1363,assignment invoice call me,Delhi,0,Call,173
+1364,assignment schedule dinner family trip,Noida,0,SMS,0
+1365,dinner assignment schedule meeting call me,Noida,0,Call,99
+1366,call me meeting family trip invoice,Pune,0,Call,81
+1367,documents schedule assignment documents family trip invoice,Pune,0,SMS,0
+1368,free gift investment scheme investment scheme,Pune,1,SMS,0
+1369,invoice dinner schedule invoice,Pune,0,SMS,0
+1370,project update project update invoice call me,Pune,0,SMS,0
+1371,claim now KYC update bank alert win blocked claim now,Unknown,1,SMS,0
+1372,project update family trip family trip documents assignment,Chennai,0,Call,14
+1373,KYC update claim now lottery claim now investment scheme OTP,Noida,1,Call,132
+1374,dinner call me assignment family trip meeting,Pune,0,SMS,0
+1375,call me project update invoice call me project update,Delhi,0,SMS,0
+1376,urgent win lottery bank alert investment scheme,Unknown,1,SMS,0
+1377,documents assignment assignment project update,Bangalore,0,Call,31
+1378,invoice call me documents documents,Bangalore,0,Call,261
+1379,call me call me family trip meeting,Kolkata,0,Call,149
+1380,dinner meeting call me,Chennai,0,SMS,0
+1381,invoice hello hello,Bangalore,0,SMS,0
+1382,dinner call me hello dinner documents dinner,Pune,0,Call,136
+1383,blocked bank alert KYC update,Noida,1,SMS,0
+1384,dinner dinner dinner invoice,Kolkata,0,SMS,0
+1385,dinner invoice assignment family trip assignment schedule,Mumbai,0,Call,42
+1386,assignment call me documents call me,Unknown,0,Call,109
+1387,lottery investment scheme KYC update win investment scheme bank alert,Mumbai,1,SMS,0
+1388,assignment invoice meeting dinner meeting meeting,Mumbai,0,Call,289
+1389,blocked win lottery,Pune,1,SMS,0
+1390,documents dinner call me dinner hello meeting,Mumbai,0,Call,156
+1391,meeting call me family trip meeting project update schedule,Mumbai,0,Call,105
+1392,meeting schedule dinner assignment family trip documents,Bangalore,0,SMS,0
+1393,invoice family trip invoice dinner family trip documents,Kolkata,0,SMS,0
+1394,invoice call me project update family trip dinner meeting,Mumbai,0,Call,35
+1395,documents invoice invoice project update,Chennai,0,SMS,0
+1396,claim now OTP KYC update OTP claim now,Delhi,1,Call,174
+1397,documents family trip dinner meeting,Kolkata,0,SMS,0
+1398,family trip call me family trip,Chennai,0,Call,40
+1399,family trip dinner project update invoice project update,Delhi,0,Call,288
+1400,call me assignment meeting schedule,Mumbai,0,Call,188
+1401,meeting invoice meeting,Hyderabad,0,SMS,0
+1402,hello schedule call me invoice documents call me,Noida,0,Call,74
+1403,hello schedule dinner,Chennai,0,Call,299
+1404,hello call me invoice assignment,Mumbai,0,Call,46
+1405,invoice schedule assignment project update schedule,Kolkata,0,Call,19
+1406,schedule hello invoice call me dinner meeting,Bangalore,0,SMS,0
+1407,bank alert urgent lottery win,Mumbai,1,SMS,0
+1408,free gift claim now blocked OTP urgent lottery,Hyderabad,1,Call,110
+1409,documents dinner call me invoice assignment dinner,Mumbai,0,Call,89
+1410,urgent claim now win KYC update urgent,Mumbai,1,SMS,0
+1411,invoice hello invoice invoice project update invoice,Noida,0,Call,200
+1412,call me dinner meeting,Bangalore,0,SMS,0
+1413,meeting meeting invoice documents hello hello,Chennai,0,Call,65
+1414,invoice call me call me schedule invoice,Pune,0,SMS,0
+1415,family trip project update meeting project update meeting assignment,Pune,0,Call,103
+1416,investment scheme claim now investment scheme blocked OTP free gift,Kolkata,1,SMS,0
+1417,documents project update project update assignment,Mumbai,0,SMS,0
+1418,call me schedule meeting documents,Kolkata,0,SMS,0
+1419,schedule dinner hello assignment meeting dinner,Chennai,0,Call,288
+1420,lottery lottery investment scheme lottery,Chennai,1,SMS,0
+1421,schedule schedule dinner project update,Bangalore,0,SMS,0
+1422,call me documents documents family trip assignment invoice,Pune,0,Call,103
+1423,invoice dinner meeting meeting assignment hello,Pune,0,Call,96
+1424,project update family trip schedule meeting family trip documents,Kolkata,0,Call,143
+1425,KYC update OTP investment scheme bank alert urgent,Noida,1,Call,254
+1426,OTP investment scheme claim now investment scheme,Pune,1,SMS,0
+1427,assignment schedule hello,Noida,0,Call,53
+1428,OTP free gift win KYC update urgent,Noida,1,Call,126
+1429,hello documents dinner invoice,Chennai,0,Call,163
+1430,OTP investment scheme OTP blocked,Bangalore,1,Call,279
+1431,family trip documents call me assignment,Kolkata,0,Call,158
+1432,assignment meeting family trip meeting invoice,Delhi,0,Call,56
+1433,project update project update schedule project update assignment,Kolkata,0,Call,79
+1434,documents family trip schedule schedule,Noida,0,SMS,0
+1435,family trip assignment invoice invoice schedule,Bangalore,0,SMS,0
+1436,invoice assignment call me call me meeting hello,Chennai,0,SMS,0
+1437,dinner project update invoice call me documents family trip,Chennai,0,SMS,0
+1438,hello meeting dinner call me,Noida,0,SMS,0
+1439,meeting hello family trip project update call me,Noida,0,Call,104
+1440,family trip dinner invoice hello dinner project update,Hyderabad,0,Call,132
+1441,bank alert investment scheme win OTP free gift claim now,Hyderabad,1,Call,55
+1442,hello documents family trip assignment documents call me,Noida,0,Call,286
+1443,call me hello assignment call me,Pune,0,SMS,0
+1444,documents assignment documents project update dinner,Kolkata,0,SMS,0
+1445,investment scheme lottery urgent urgent investment scheme,Pune,1,Call,280
+1446,invoice call me project update invoice invoice meeting,Chennai,0,Call,78
+1447,family trip assignment documents,Delhi,0,SMS,0
+1448,free gift claim now win bank alert,Kolkata,1,SMS,0
+1449,lottery OTP free gift,Pune,1,SMS,0
+1450,schedule dinner invoice,Pune,0,Call,183
+1451,hello call me documents,Unknown,0,Call,107
+1452,family trip project update call me documents,Kolkata,0,SMS,0
+1453,investment scheme OTP investment scheme bank alert,Delhi,1,SMS,0
+1454,meeting invoice call me hello,Bangalore,0,Call,169
+1455,schedule schedule call me dinner assignment,Bangalore,0,Call,32
+1456,OTP blocked win,Pune,1,Call,249
+1457,invoice schedule documents,Noida,0,Call,276
+1458,family trip family trip invoice dinner hello invoice,Delhi,0,SMS,0
+1459,meeting dinner schedule invoice assignment family trip,Delhi,0,SMS,0
+1460,documents invoice assignment,Chennai,0,SMS,0
+1461,dinner meeting documents project update,Unknown,0,Call,65
+1462,meeting schedule assignment,Chennai,0,Call,106
+1463,invoice invoice call me,Delhi,0,Call,91
+1464,family trip schedule assignment invoice project update,Mumbai,0,SMS,0
+1465,blocked OTP urgent win blocked KYC update,Noida,1,SMS,0
+1466,family trip schedule assignment meeting documents,Delhi,0,SMS,0
+1467,urgent claim now lottery win,Unknown,1,Call,197
+1468,family trip assignment meeting dinner documents assignment,Delhi,0,Call,92
+1469,KYC update claim now bank alert lottery bank alert bank alert,Kolkata,1,SMS,0
+1470,bank alert blocked bank alert KYC update,Kolkata,1,Call,174
+1471,project update dinner assignment hello,Hyderabad,0,SMS,0
+1472,assignment dinner project update schedule,Unknown,0,SMS,0
+1473,investment scheme investment scheme win,Pune,1,SMS,0
+1474,meeting hello meeting,Pune,0,SMS,0
+1475,meeting meeting family trip invoice assignment meeting,Bangalore,0,Call,170
+1476,hello invoice invoice meeting documents meeting,Delhi,0,Call,154
+1477,blocked lottery KYC update blocked bank alert claim now,Mumbai,1,Call,281
+1478,lottery claim now lottery investment scheme,Unknown,1,Call,197
+1479,investment scheme free gift lottery free gift win win,Mumbai,1,Call,121
+1480,invoice documents meeting dinner,Hyderabad,0,Call,192
+1481,lottery lottery urgent win,Delhi,1,SMS,0
+1482,call me invoice project update dinner,Bangalore,0,Call,213
+1483,meeting project update hello assignment meeting schedule,Chennai,0,Call,163
+1484,dinner family trip documents,Pune,0,Call,55
+1485,family trip project update meeting,Kolkata,0,SMS,0
+1486,documents documents invoice,Unknown,0,Call,41
+1487,family trip meeting invoice call me family trip,Mumbai,0,SMS,0
+1488,assignment assignment invoice call me hello hello,Delhi,0,Call,80
+1489,assignment schedule dinner dinner schedule invoice,Chennai,0,Call,298
+1490,dinner dinner family trip,Noida,0,Call,22
+1491,family trip schedule meeting call me,Noida,0,SMS,0
+1492,invoice family trip family trip hello call me hello,Kolkata,0,SMS,0
+1493,meeting call me dinner hello assignment invoice,Noida,0,Call,277
+1494,dinner call me assignment meeting assignment family trip,Pune,0,Call,294
+1495,schedule assignment documents meeting,Hyderabad,0,Call,158
+1496,dinner hello project update meeting documents family trip,Noida,0,SMS,0
+1497,hello invoice project update,Kolkata,0,SMS,0
+1498,assignment documents assignment invoice meeting schedule,Hyderabad,0,Call,134
+1499,documents call me dinner call me,Pune,0,SMS,0
+1500,OTP claim now free gift bank alert blocked bank alert,Kolkata,1,SMS,0
+1501,project update schedule project update,Noida,0,SMS,0
+1502,project update project update meeting meeting,Unknown,0,SMS,0
+1503,schedule hello call me,Noida,0,Call,69
+1504,meeting assignment family trip meeting invoice project update,Kolkata,0,Call,244
+1505,meeting schedule family trip,Unknown,0,SMS,0
+1506,family trip hello dinner dinner call me assignment,Unknown,0,SMS,0
+1507,documents schedule invoice meeting schedule assignment,Hyderabad,0,SMS,0
+1508,dinner schedule meeting hello call me,Pune,0,Call,63
+1509,hello dinner project update,Noida,0,Call,266
+1510,urgent free gift lottery investment scheme,Chennai,1,SMS,0
+1511,blocked KYC update urgent,Pune,1,SMS,0
+1512,assignment hello dinner call me hello dinner,Chennai,0,SMS,0
+1513,lottery free gift investment scheme investment scheme,Chennai,1,SMS,0
+1514,documents schedule project update meeting,Mumbai,0,Call,50
+1515,call me hello assignment meeting call me call me,Hyderabad,0,Call,224
+1516,hello call me invoice meeting,Bangalore,0,Call,105
+1517,dinner assignment assignment,Delhi,0,Call,189
+1518,urgent lottery win,Delhi,1,Call,246
+1519,meeting family trip call me,Hyderabad,0,Call,275
+1520,OTP KYC update claim now OTP urgent KYC update,Hyderabad,1,SMS,0
+1521,hello hello assignment invoice,Chennai,0,SMS,0
+1522,investment scheme free gift bank alert blocked claim now OTP,Hyderabad,1,Call,252
+1523,call me meeting dinner family trip call me,Chennai,0,Call,138
+1524,meeting family trip meeting invoice meeting,Pune,0,Call,23
+1525,family trip meeting schedule call me,Bangalore,0,SMS,0
+1526,family trip schedule meeting meeting,Mumbai,0,SMS,0
+1527,hello family trip invoice meeting dinner,Chennai,0,SMS,0
+1528,assignment documents assignment invoice,Hyderabad,0,SMS,0
+1529,free gift win urgent,Unknown,1,Call,68
+1530,project update meeting call me schedule,Noida,0,SMS,0
+1531,meeting project update meeting documents,Delhi,0,Call,50
+1532,hello documents call me schedule documents family trip,Bangalore,0,SMS,0
+1533,schedule project update documents hello,Noida,0,SMS,0
+1534,schedule meeting hello meeting documents,Kolkata,0,SMS,0
+1535,dinner dinner project update hello meeting invoice,Hyderabad,0,SMS,0
+1536,hello family trip project update assignment,Chennai,0,Call,91
+1537,assignment meeting dinner,Mumbai,0,Call,166
+1538,schedule family trip assignment meeting,Unknown,0,Call,51
+1539,meeting documents dinner hello,Mumbai,0,Call,279
+1540,schedule documents assignment,Noida,0,Call,201
+1541,schedule project update dinner assignment meeting assignment,Unknown,0,Call,184
+1542,invoice call me call me,Delhi,0,Call,247
+1543,assignment invoice assignment call me,Hyderabad,0,SMS,0
+1544,documents project update call me,Kolkata,0,Call,300
+1545,win lottery win,Noida,1,SMS,0
+1546,documents invoice project update schedule,Chennai,0,Call,91
+1547,KYC update free gift claim now,Delhi,1,SMS,0
+1548,family trip meeting hello,Kolkata,0,Call,220
+1549,schedule dinner documents assignment hello,Mumbai,0,SMS,0
+1550,invoice invoice invoice,Delhi,0,Call,61
+1551,lottery win free gift urgent,Kolkata,1,Call,58
+1552,assignment invoice assignment family trip,Kolkata,0,Call,13
+1553,lottery claim now bank alert urgent urgent free gift,Mumbai,1,Call,269
+1554,OTP free gift win,Kolkata,1,SMS,0
+1555,assignment documents dinner documents meeting,Bangalore,0,Call,278
+1556,hello invoice meeting dinner family trip,Unknown,0,Call,164
+1557,assignment documents call me hello schedule meeting,Bangalore,0,SMS,0
+1558,schedule documents documents invoice family trip family trip,Mumbai,0,Call,26
+1559,win free gift urgent urgent blocked lottery,Pune,1,SMS,0
+1560,investment scheme urgent urgent,Delhi,1,SMS,0
+1561,meeting call me hello family trip invoice invoice,Chennai,0,Call,220
+1562,invoice meeting invoice documents,Chennai,0,Call,228
+1563,win lottery lottery bank alert claim now OTP,Noida,1,SMS,0
+1564,hello project update meeting,Noida,0,Call,124
+1565,win lottery free gift bank alert blocked free gift,Mumbai,1,SMS,0
+1566,assignment invoice assignment,Noida,0,Call,144
+1567,hello schedule documents,Chennai,0,Call,264
+1568,call me project update project update hello meeting,Bangalore,0,SMS,0
+1569,project update invoice schedule family trip,Chennai,0,Call,78
+1570,invoice schedule hello invoice,Bangalore,0,Call,209
+1571,family trip family trip dinner meeting hello invoice,Pune,0,Call,189
+1572,documents documents hello invoice call me call me,Mumbai,0,SMS,0
+1573,meeting invoice family trip project update documents invoice,Hyderabad,0,Call,165
+1574,claim now win win,Pune,1,SMS,0
+1575,schedule dinner meeting documents,Pune,0,Call,216
+1576,project update call me hello call me schedule,Chennai,0,SMS,0
+1577,schedule project update schedule family trip assignment,Mumbai,0,Call,214
+1578,invoice invoice project update schedule,Unknown,0,Call,31
+1579,hello family trip meeting schedule,Kolkata,0,SMS,0
+1580,family trip dinner meeting invoice dinner project update,Pune,0,Call,134
+1581,documents project update hello family trip documents,Noida,0,SMS,0
+1582,meeting meeting dinner,Bangalore,0,Call,139
+1583,hello invoice schedule schedule,Unknown,0,SMS,0
+1584,documents hello hello meeting invoice,Mumbai,0,Call,202
+1585,bank alert claim now free gift KYC update win investment scheme,Hyderabad,1,SMS,0
+1586,hello documents project update,Unknown,0,Call,132
+1587,documents dinner assignment assignment,Hyderabad,0,SMS,0
+1588,meeting hello meeting schedule documents,Chennai,0,SMS,0
+1589,call me call me schedule dinner,Delhi,0,Call,148
+1590,call me documents call me schedule,Kolkata,0,SMS,0
+1591,project update meeting family trip documents meeting,Chennai,0,SMS,0
+1592,investment scheme claim now free gift free gift,Mumbai,1,Call,78
+1593,dinner meeting invoice call me assignment,Delhi,0,Call,21
+1594,dinner meeting dinner meeting hello,Hyderabad,0,Call,156
+1595,hello schedule documents dinner schedule dinner,Delhi,0,Call,97
+1596,call me family trip dinner call me,Noida,0,Call,162
+1597,invoice hello schedule family trip assignment,Noida,0,Call,126
+1598,hello schedule family trip,Chennai,0,SMS,0
+1599,assignment project update call me project update call me meeting,Chennai,0,SMS,0
+1600,blocked bank alert win,Mumbai,1,SMS,0
+1601,documents family trip schedule meeting schedule call me,Mumbai,0,Call,29
+1602,documents family trip dinner,Bangalore,0,Call,24
+1603,documents invoice assignment project update,Mumbai,0,SMS,0
+1604,family trip hello hello assignment,Pune,0,SMS,0
+1605,call me documents documents,Bangalore,0,Call,275
+1606,hello documents assignment,Noida,0,SMS,0
+1607,documents call me project update invoice,Unknown,0,Call,298
+1608,win claim now urgent win investment scheme,Bangalore,1,Call,160
+1609,meeting dinner invoice invoice dinner,Bangalore,0,SMS,0
+1610,invoice family trip meeting assignment family trip invoice,Chennai,0,Call,48
+1611,win bank alert win urgent blocked OTP,Kolkata,1,Call,148
+1612,invoice schedule meeting project update family trip,Delhi,0,Call,23
+1613,schedule call me invoice,Noida,0,Call,32
+1614,schedule family trip family trip meeting,Hyderabad,0,SMS,0
+1615,hello assignment call me schedule,Hyderabad,0,Call,119
+1616,assignment call me hello schedule call me,Mumbai,0,Call,219
+1617,investment scheme win bank alert,Noida,1,SMS,0
+1618,documents dinner invoice documents schedule,Pune,0,Call,218
+1619,schedule call me family trip hello,Mumbai,0,Call,130
+1620,meeting call me meeting dinner,Mumbai,0,SMS,0
+1621,assignment call me dinner,Bangalore,0,SMS,0
+1622,invoice call me family trip family trip,Noida,0,Call,11
+1623,schedule invoice schedule meeting,Delhi,0,Call,124
+1624,blocked KYC update claim now,Mumbai,1,SMS,0
+1625,assignment hello hello project update,Kolkata,0,Call,82
+1626,call me assignment invoice schedule,Pune,0,Call,23
+1627,meeting call me project update meeting,Pune,0,Call,150
+1628,invoice documents hello project update,Mumbai,0,SMS,0
+1629,meeting schedule project update meeting,Kolkata,0,Call,48
+1630,project update schedule schedule assignment family trip hello,Unknown,0,SMS,0
+1631,free gift free gift claim now urgent,Chennai,1,SMS,0
+1632,invoice dinner project update dinner family trip family trip,Chennai,0,SMS,0
+1633,hello meeting call me hello family trip,Chennai,0,SMS,0
+1634,lottery claim now free gift investment scheme free gift win,Bangalore,1,Call,267
+1635,blocked free gift bank alert win,Pune,1,SMS,0
+1636,schedule dinner invoice assignment invoice schedule,Hyderabad,0,Call,294
+1637,documents call me hello project update assignment schedule,Hyderabad,0,SMS,0
+1638,documents invoice schedule assignment assignment,Bangalore,0,SMS,0
+1639,blocked claim now bank alert investment scheme win win,Mumbai,1,Call,136
+1640,urgent claim now OTP win,Noida,1,SMS,0
+1641,documents schedule invoice documents call me meeting,Noida,0,SMS,0
+1642,win win urgent bank alert,Chennai,1,Call,182
+1643,dinner invoice dinner,Noida,0,SMS,0
+1644,family trip family trip assignment,Mumbai,0,SMS,0
+1645,assignment meeting documents call me family trip,Unknown,0,SMS,0
+1646,free gift win KYC update lottery,Bangalore,1,Call,32
+1647,invoice schedule call me dinner,Unknown,0,SMS,0
+1648,bank alert free gift OTP bank alert claim now,Pune,1,Call,277
+1649,KYC update urgent free gift,Noida,1,Call,205
+1650,assignment meeting call me call me schedule,Chennai,0,Call,269
+1651,schedule meeting call me documents invoice schedule,Bangalore,0,SMS,0
+1652,schedule documents family trip call me meeting schedule,Chennai,0,SMS,0
+1653,meeting meeting invoice assignment schedule,Noida,0,SMS,0
+1654,dinner family trip meeting schedule,Delhi,0,SMS,0
+1655,family trip dinner schedule,Noida,0,Call,22
+1656,free gift lottery urgent free gift,Bangalore,1,Call,110
+1657,meeting project update hello documents,Hyderabad,0,SMS,0
+1658,meeting dinner dinner hello,Bangalore,0,SMS,0
+1659,schedule documents family trip,Kolkata,0,Call,268
+1660,meeting schedule call me family trip documents,Noida,0,SMS,0
+1661,schedule assignment family trip,Kolkata,0,SMS,0
+1662,invoice invoice meeting meeting meeting documents,Hyderabad,0,SMS,0
+1663,investment scheme OTP free gift,Mumbai,1,SMS,0
+1664,project update dinner call me,Mumbai,0,SMS,0
+1665,OTP investment scheme blocked bank alert free gift bank alert,Pune,1,SMS,0
+1666,win OTP investment scheme OTP urgent,Unknown,1,Call,148
+1667,documents dinner schedule dinner,Hyderabad,0,Call,26
+1668,KYC update OTP investment scheme free gift investment scheme KYC update,Bangalore,1,Call,155
+1669,call me hello call me assignment,Noida,0,Call,153
+1670,OTP lottery claim now,Kolkata,1,SMS,0
+1671,invoice hello invoice assignment family trip,Pune,0,SMS,0
+1672,KYC update free gift blocked urgent,Chennai,1,Call,99
+1673,investment scheme free gift bank alert blocked claim now bank alert,Noida,1,Call,89
+1674,KYC update win win,Chennai,1,Call,60
+1675,claim now win win free gift free gift urgent,Kolkata,1,Call,115
+1676,schedule invoice project update,Kolkata,0,Call,171
+1677,dinner invoice project update assignment meeting assignment,Noida,0,SMS,0
+1678,documents invoice schedule documents dinner,Pune,0,SMS,0
+1679,dinner project update documents,Unknown,0,Call,257
+1680,project update invoice dinner meeting,Mumbai,0,Call,86
+1681,dinner call me family trip schedule documents,Kolkata,0,SMS,0
+1682,win bank alert bank alert investment scheme KYC update,Pune,1,SMS,0
+1683,assignment assignment schedule,Kolkata,0,SMS,0
+1684,free gift urgent investment scheme claim now,Delhi,1,Call,100
+1685,dinner call me project update,Mumbai,0,SMS,0
+1686,KYC update urgent blocked,Kolkata,1,Call,159
+1687,OTP bank alert win free gift investment scheme,Pune,1,Call,218
+1688,invoice invoice hello call me project update,Kolkata,0,SMS,0
+1689,documents family trip assignment schedule,Chennai,0,SMS,0
+1690,lottery lottery investment scheme win investment scheme free gift,Noida,1,SMS,0
+1691,meeting hello call me meeting,Noida,0,Call,261
+1692,documents family trip invoice call me invoice invoice,Kolkata,0,SMS,0
+1693,meeting call me family trip documents dinner hello,Pune,0,SMS,0
+1694,invoice family trip schedule,Chennai,0,Call,36
+1695,schedule dinner dinner dinner hello,Unknown,0,SMS,0
+1696,hello documents invoice project update,Unknown,0,SMS,0
+1697,schedule meeting meeting dinner assignment,Chennai,0,Call,239
+1698,schedule project update project update meeting assignment,Bangalore,0,Call,297
+1699,win OTP claim now bank alert investment scheme win,Pune,1,Call,117
+1700,assignment assignment invoice schedule,Unknown,0,Call,221
+1701,lottery claim now win,Bangalore,1,Call,152
+1702,dinner invoice dinner call me meeting,Pune,0,SMS,0
+1703,schedule family trip assignment dinner,Chennai,0,SMS,0
+1704,family trip family trip dinner family trip,Bangalore,0,Call,33
+1705,assignment documents call me dinner assignment meeting,Bangalore,0,SMS,0
+1706,dinner assignment assignment invoice documents,Kolkata,0,SMS,0
+1707,dinner schedule assignment call me invoice assignment,Hyderabad,0,Call,44
+1708,dinner project update assignment hello project update assignment,Hyderabad,0,Call,109
+1709,family trip assignment meeting family trip,Pune,0,Call,193
+1710,dinner call me project update schedule,Kolkata,0,SMS,0
+1711,invoice call me family trip,Noida,0,Call,239
+1712,invoice project update schedule hello hello,Mumbai,0,SMS,0
+1713,OTP claim now urgent claim now,Mumbai,1,SMS,0
+1714,assignment invoice dinner,Bangalore,0,SMS,0
+1715,call me project update invoice project update family trip,Delhi,0,SMS,0
+1716,KYC update KYC update urgent bank alert KYC update urgent,Unknown,1,Call,205
+1717,invoice family trip assignment assignment assignment call me,Unknown,0,SMS,0
+1718,assignment family trip meeting hello,Kolkata,0,Call,104
+1719,investment scheme bank alert blocked claim now free gift win,Hyderabad,1,SMS,0
+1720,dinner documents documents call me,Delhi,0,Call,182
+1721,dinner call me assignment,Kolkata,0,Call,35
+1722,project update dinner family trip hello call me,Bangalore,0,Call,228
+1723,project update invoice meeting invoice,Delhi,0,SMS,0
+1724,meeting schedule family trip schedule,Unknown,0,SMS,0
+1725,call me call me meeting dinner,Pune,0,SMS,0
+1726,project update assignment documents call me schedule,Bangalore,0,Call,115
+1727,schedule invoice family trip,Kolkata,0,SMS,0
+1728,lottery blocked lottery free gift,Noida,1,SMS,0
+1729,KYC update blocked claim now OTP,Chennai,1,SMS,0
+1730,invoice call me hello assignment documents,Bangalore,0,Call,248
+1731,meeting documents schedule meeting assignment assignment,Bangalore,0,SMS,0
+1732,family trip meeting project update,Noida,0,SMS,0
+1733,hello project update assignment,Pune,0,Call,102
+1734,meeting family trip documents documents documents,Noida,0,Call,194
+1735,family trip call me meeting project update hello,Mumbai,0,Call,237
+1736,investment scheme KYC update investment scheme lottery lottery claim now,Mumbai,1,Call,109
+1737,project update schedule assignment dinner schedule documents,Bangalore,0,Call,13
+1738,hello meeting dinner assignment call me,Unknown,0,Call,190
+1739,assignment hello assignment assignment family trip,Mumbai,0,SMS,0
+1740,project update schedule call me meeting,Pune,0,SMS,0
+1741,investment scheme free gift claim now investment scheme,Bangalore,1,Call,250
+1742,family trip family trip dinner,Pune,0,SMS,0
+1743,blocked KYC update OTP,Unknown,1,Call,291
+1744,invoice hello hello dinner,Unknown,0,SMS,0
+1745,family trip project update call me meeting project update project update,Mumbai,0,Call,153
+1746,documents documents project update family trip hello,Kolkata,0,Call,115
+1747,call me hello hello hello call me,Noida,0,SMS,0
+1748,call me dinner schedule project update,Hyderabad,0,SMS,0
+1749,investment scheme urgent urgent lottery investment scheme blocked,Bangalore,1,SMS,0
+1750,meeting documents schedule invoice,Kolkata,0,SMS,0
+1751,documents hello documents assignment call me,Bangalore,0,SMS,0
+1752,assignment schedule dinner,Noida,0,SMS,0
+1753,hello invoice schedule,Noida,0,SMS,0
+1754,dinner family trip assignment schedule,Delhi,0,SMS,0
+1755,investment scheme claim now urgent,Pune,1,Call,189
+1756,investment scheme free gift blocked lottery,Mumbai,1,SMS,0
+1757,claim now lottery win blocked claim now,Delhi,1,SMS,0
+1758,schedule call me schedule family trip project update call me,Unknown,0,Call,115
+1759,assignment assignment hello assignment dinner,Hyderabad,0,Call,206
+1760,project update dinner documents hello hello,Mumbai,0,Call,77
+1761,assignment call me documents,Unknown,0,Call,261
+1762,bank alert win win claim now,Pune,1,SMS,0
+1763,schedule assignment invoice,Pune,0,SMS,0
+1764,family trip hello meeting,Pune,0,Call,143
+1765,family trip family trip call me call me,Delhi,0,Call,197
+1766,call me call me schedule assignment,Chennai,0,SMS,0
+1767,project update assignment assignment project update call me,Kolkata,0,SMS,0
+1768,assignment schedule call me schedule,Noida,0,SMS,0
+1769,invoice assignment dinner schedule invoice,Hyderabad,0,SMS,0
+1770,documents documents invoice,Noida,0,Call,136
+1771,hello hello call me,Chennai,0,SMS,0
+1772,KYC update blocked KYC update,Mumbai,1,Call,218
+1773,urgent blocked OTP,Unknown,1,Call,257
+1774,bank alert KYC update KYC update,Unknown,1,Call,261
+1775,investment scheme win urgent blocked,Hyderabad,1,SMS,0
+1776,documents meeting project update hello invoice,Delhi,0,Call,143
+1777,assignment schedule assignment hello meeting family trip,Hyderabad,0,SMS,0
+1778,documents schedule project update hello,Hyderabad,0,Call,99
+1779,dinner invoice assignment meeting,Unknown,0,SMS,0
+1780,bank alert free gift claim now,Pune,1,Call,246
+1781,hello family trip invoice,Hyderabad,0,Call,58
+1782,claim now blocked claim now urgent bank alert KYC update,Hyderabad,1,SMS,0
+1783,hello dinner project update family trip invoice,Noida,0,SMS,0
+1784,meeting schedule family trip call me meeting dinner,Pune,0,Call,120
+1785,invoice project update call me project update project update,Unknown,0,Call,173
+1786,investment scheme blocked free gift OTP blocked free gift,Delhi,1,SMS,0
+1787,project update documents call me schedule meeting family trip,Kolkata,0,Call,186
+1788,invoice call me schedule family trip documents call me,Unknown,0,SMS,0
+1789,call me dinner call me,Unknown,0,SMS,0
+1790,invoice dinner family trip documents,Hyderabad,0,Call,289
+1791,documents hello hello family trip assignment schedule,Noida,0,SMS,0
+1792,assignment schedule dinner family trip,Chennai,0,Call,295
+1793,schedule hello hello project update,Bangalore,0,SMS,0
+1794,schedule family trip meeting dinner call me,Noida,0,SMS,0
+1795,call me schedule assignment dinner documents,Chennai,0,Call,124
+1796,invoice call me hello,Hyderabad,0,SMS,0
+1797,dinner assignment family trip,Hyderabad,0,Call,202
+1798,assignment dinner documents,Delhi,0,SMS,0
+1799,call me hello meeting,Chennai,0,SMS,0
+1800,family trip hello documents invoice,Mumbai,0,SMS,0
+1801,blocked blocked free gift,Bangalore,1,SMS,0
+1802,dinner dinner hello invoice invoice,Delhi,0,Call,22
+1803,assignment meeting documents meeting,Noida,0,SMS,0
+1804,project update schedule documents meeting call me schedule,Noida,0,SMS,0
+1805,invoice documents documents invoice,Chennai,0,SMS,0
+1806,investment scheme free gift blocked lottery,Noida,1,Call,260
+1807,documents schedule documents meeting family trip,Mumbai,0,Call,241
+1808,schedule hello hello schedule call me,Hyderabad,0,Call,160
+1809,family trip schedule meeting project update dinner documents,Chennai,0,Call,293
+1810,assignment family trip meeting,Noida,0,SMS,0
+1811,assignment hello schedule family trip invoice documents,Hyderabad,0,SMS,0
+1812,urgent KYC update OTP blocked KYC update claim now,Pune,1,SMS,0
+1813,assignment dinner dinner,Unknown,0,Call,223
+1814,documents meeting documents hello meeting,Hyderabad,0,Call,27
+1815,dinner project update dinner,Unknown,0,SMS,0
+1816,blocked KYC update lottery OTP,Chennai,1,SMS,0
+1817,meeting invoice call me call me family trip,Kolkata,0,SMS,0
+1818,investment scheme bank alert bank alert lottery,Hyderabad,1,Call,142
+1819,hello family trip documents meeting hello,Unknown,0,SMS,0
+1820,call me project update documents schedule,Chennai,0,SMS,0
+1821,assignment schedule hello invoice,Hyderabad,0,Call,163
+1822,hello project update call me dinner,Chennai,0,Call,168
+1823,hello call me schedule,Kolkata,0,SMS,0
+1824,KYC update KYC update bank alert OTP investment scheme,Kolkata,1,Call,41
+1825,assignment documents invoice,Bangalore,0,SMS,0
+1826,dinner hello hello,Delhi,0,SMS,0
+1827,documents invoice schedule hello call me,Chennai,0,SMS,0
+1828,lottery claim now KYC update claim now investment scheme urgent,Delhi,1,SMS,0
+1829,KYC update urgent win lottery blocked urgent,Bangalore,1,Call,299
+1830,hello family trip documents documents schedule,Mumbai,0,Call,42
+1831,urgent bank alert urgent OTP,Hyderabad,1,Call,138
+1832,meeting hello assignment assignment dinner,Noida,0,SMS,0
+1833,schedule invoice hello dinner invoice,Delhi,0,SMS,0
+1834,hello invoice documents,Delhi,0,SMS,0
+1835,urgent OTP KYC update,Chennai,1,Call,208
+1836,assignment dinner hello,Hyderabad,0,Call,55
+1837,hello invoice invoice family trip dinner project update,Chennai,0,SMS,0
+1838,call me project update hello family trip hello,Kolkata,0,Call,186
+1839,win KYC update claim now urgent,Delhi,1,Call,110
+1840,assignment project update call me call me invoice,Hyderabad,0,Call,204
+1841,dinner meeting meeting schedule schedule project update,Pune,0,Call,11
+1842,invoice invoice hello,Mumbai,0,SMS,0
+1843,call me call me call me family trip dinner documents,Bangalore,0,Call,157
+1844,hello meeting invoice meeting family trip meeting,Mumbai,0,SMS,0
+1845,free gift investment scheme KYC update investment scheme OTP investment scheme,Bangalore,1,Call,72
+1846,documents invoice family trip invoice,Delhi,0,SMS,0
+1847,documents invoice assignment dinner invoice schedule,Mumbai,0,SMS,0
+1848,hello hello meeting,Mumbai,0,Call,200
+1849,win investment scheme free gift blocked bank alert,Noida,1,SMS,0
+1850,assignment hello meeting,Chennai,0,SMS,0
+1851,invoice call me call me project update,Noida,0,Call,203
+1852,urgent win claim now investment scheme,Mumbai,1,SMS,0
+1853,OTP blocked free gift bank alert investment scheme bank alert,Noida,1,Call,201
+1854,lottery bank alert free gift free gift free gift,Noida,1,SMS,0
+1855,investment scheme investment scheme blocked,Chennai,1,Call,186
+1856,hello dinner invoice invoice,Hyderabad,0,Call,184
+1857,lottery win blocked,Delhi,1,Call,281
+1858,hello schedule meeting,Hyderabad,0,Call,42
+1859,investment scheme KYC update free gift investment scheme win,Delhi,1,Call,214
+1860,project update invoice dinner dinner schedule,Hyderabad,0,SMS,0
+1861,investment scheme investment scheme win free gift free gift bank alert,Hyderabad,1,SMS,0
+1862,call me hello dinner call me documents,Bangalore,0,Call,129
+1863,assignment call me family trip schedule,Noida,0,SMS,0
+1864,schedule project update call me assignment assignment,Kolkata,0,SMS,0
+1865,urgent OTP win free gift,Chennai,1,SMS,0
+1866,OTP OTP investment scheme free gift,Hyderabad,1,Call,158
+1867,meeting call me hello schedule dinner,Mumbai,0,Call,253
+1868,meeting family trip project update call me dinner,Pune,0,SMS,0
+1869,family trip family trip schedule hello schedule project update,Bangalore,0,Call,80
+1870,meeting assignment documents meeting project update assignment,Pune,0,Call,140
+1871,bank alert lottery investment scheme free gift OTP blocked,Unknown,1,SMS,0
+1872,dinner call me meeting invoice,Unknown,0,Call,226
+1873,assignment family trip family trip invoice meeting,Delhi,0,Call,249
+1874,bank alert KYC update bank alert blocked KYC update win,Hyderabad,1,Call,127
+1875,project update assignment hello,Chennai,0,Call,280
+1876,call me assignment call me documents schedule,Mumbai,0,Call,223
+1877,meeting hello invoice dinner meeting documents,Kolkata,0,SMS,0
+1878,hello project update meeting call me,Kolkata,0,Call,273
+1879,invoice meeting dinner documents,Bangalore,0,Call,164
+1880,documents assignment documents,Bangalore,0,SMS,0
+1881,assignment documents dinner documents invoice schedule,Bangalore,0,SMS,0
+1882,win claim now blocked KYC update free gift OTP,Bangalore,1,Call,102
+1883,project update call me invoice,Noida,0,SMS,0
+1884,urgent urgent free gift KYC update free gift claim now,Hyderabad,1,Call,34
+1885,call me project update hello family trip meeting family trip,Pune,0,SMS,0
+1886,assignment call me dinner,Hyderabad,0,Call,273
+1887,family trip documents invoice family trip schedule,Hyderabad,0,SMS,0
+1888,hello invoice dinner assignment family trip,Unknown,0,Call,274
+1889,hello meeting hello,Chennai,0,SMS,0
+1890,KYC update claim now lottery KYC update,Mumbai,1,Call,230
+1891,schedule family trip family trip schedule family trip,Delhi,0,Call,203
+1892,hello assignment hello,Chennai,0,Call,107
+1893,claim now blocked investment scheme urgent urgent investment scheme,Bangalore,1,SMS,0
+1894,hello call me documents schedule,Pune,0,SMS,0
+1895,hello assignment call me hello call me assignment,Unknown,0,Call,113
+1896,hello meeting family trip,Noida,0,Call,124
+1897,assignment dinner dinner documents,Pune,0,Call,208
+1898,project update dinner project update meeting assignment call me,Unknown,0,Call,159
+1899,documents family trip schedule project update,Noida,0,SMS,0
+1900,bank alert blocked blocked urgent,Bangalore,1,SMS,0
+1901,family trip hello invoice documents project update,Delhi,0,SMS,0
+1902,schedule schedule meeting,Bangalore,0,Call,20
+1903,lottery urgent KYC update,Pune,1,Call,244
+1904,dinner schedule call me schedule,Bangalore,0,SMS,0
+1905,documents family trip family trip documents,Bangalore,0,SMS,0
+1906,documents schedule family trip family trip assignment,Unknown,0,SMS,0
+1907,bank alert blocked lottery KYC update free gift blocked,Kolkata,1,SMS,0
+1908,family trip project update schedule schedule hello,Bangalore,0,Call,74
+1909,documents hello meeting,Hyderabad,0,Call,206
+1910,invoice dinner project update dinner invoice project update,Hyderabad,0,Call,161
+1911,dinner project update hello call me,Delhi,0,SMS,0
+1912,investment scheme win claim now,Delhi,1,Call,294
+1913,KYC update investment scheme KYC update lottery,Delhi,1,SMS,0
+1914,family trip schedule meeting invoice documents documents,Chennai,0,SMS,0
+1915,schedule hello call me invoice schedule,Mumbai,0,SMS,0
+1916,assignment assignment documents family trip hello documents,Delhi,0,SMS,0
+1917,free gift OTP win,Bangalore,1,SMS,0
+1918,call me project update hello,Delhi,0,Call,37
+1919,schedule assignment assignment meeting,Mumbai,0,Call,257
+1920,assignment invoice meeting meeting assignment,Chennai,0,Call,221
+1921,documents family trip family trip invoice dinner,Mumbai,0,SMS,0
+1922,documents dinner project update,Pune,0,Call,32
+1923,documents schedule dinner invoice invoice,Delhi,0,SMS,0
+1924,documents meeting schedule hello schedule,Delhi,0,Call,123
+1925,claim now win urgent urgent win free gift,Delhi,1,SMS,0
+1926,documents invoice family trip assignment,Pune,0,SMS,0
+1927,project update project update schedule documents documents,Mumbai,0,Call,178
+1928,family trip assignment documents meeting invoice meeting,Unknown,0,SMS,0
+1929,call me invoice hello invoice,Bangalore,0,Call,262
+1930,invoice family trip meeting assignment schedule family trip,Bangalore,0,Call,51
+1931,invoice schedule dinner schedule,Delhi,0,Call,14
+1932,project update family trip family trip project update dinner documents,Chennai,0,SMS,0
+1933,documents documents documents,Pune,0,SMS,0
+1934,meeting project update dinner invoice call me,Unknown,0,SMS,0
+1935,family trip schedule documents schedule call me family trip,Noida,0,SMS,0
+1936,KYC update investment scheme urgent lottery OTP blocked,Unknown,1,Call,148
+1937,project update schedule family trip hello,Bangalore,0,SMS,0
+1938,urgent win investment scheme bank alert,Delhi,1,Call,174
+1939,hello project update assignment schedule family trip,Kolkata,0,Call,110
+1940,invoice assignment hello invoice invoice meeting,Noida,0,SMS,0
+1941,hello invoice schedule family trip,Delhi,0,SMS,0
+1942,family trip schedule meeting dinner,Pune,0,Call,49
+1943,lottery bank alert urgent lottery claim now urgent,Noida,1,SMS,0
+1944,family trip schedule documents invoice invoice,Kolkata,0,Call,264
+1945,blocked investment scheme free gift,Mumbai,1,SMS,0
+1946,project update hello meeting call me meeting call me,Mumbai,0,SMS,0
+1947,dinner schedule hello hello,Mumbai,0,Call,38
+1948,meeting documents dinner assignment hello project update,Chennai,0,Call,178
+1949,meeting invoice project update family trip,Mumbai,0,Call,205
+1950,meeting meeting invoice dinner,Hyderabad,0,SMS,0
+1951,invoice hello schedule,Noida,0,SMS,0
+1952,meeting family trip documents meeting,Kolkata,0,SMS,0
+1953,invoice call me meeting meeting family trip,Pune,0,Call,270
+1954,family trip meeting call me schedule assignment call me,Hyderabad,0,Call,282
+1955,free gift free gift OTP,Hyderabad,1,SMS,0
+1956,urgent urgent free gift investment scheme claim now win,Kolkata,1,Call,291
+1957,dinner documents family trip schedule schedule,Pune,0,SMS,0
+1958,project update dinner assignment assignment family trip,Noida,0,Call,300
+1959,call me invoice dinner assignment project update,Bangalore,0,SMS,0
+1960,bank alert lottery bank alert investment scheme lottery,Delhi,1,SMS,0
+1961,documents hello family trip project update project update invoice,Bangalore,0,SMS,0
+1962,call me family trip assignment hello,Kolkata,0,Call,53
+1963,urgent investment scheme win blocked investment scheme,Bangalore,1,Call,250
+1964,schedule project update family trip documents schedule meeting,Bangalore,0,SMS,0
+1965,hello project update family trip,Bangalore,0,SMS,0
+1966,schedule schedule call me schedule hello,Mumbai,0,SMS,0
+1967,documents documents schedule,Unknown,0,SMS,0
+1968,family trip project update family trip invoice project update,Bangalore,0,SMS,0
+1969,meeting hello family trip call me documents schedule,Delhi,0,SMS,0
+1970,project update schedule meeting invoice schedule family trip,Kolkata,0,Call,31
+1971,project update call me meeting assignment hello invoice,Unknown,0,Call,190
+1972,bank alert KYC update free gift,Chennai,1,Call,270
+1973,hello documents project update hello family trip assignment,Delhi,0,Call,266
+1974,documents documents hello invoice dinner invoice,Delhi,0,SMS,0
+1975,schedule family trip dinner,Mumbai,0,SMS,0
+1976,win blocked bank alert free gift OTP investment scheme,Mumbai,1,SMS,0
+1977,schedule family trip project update documents meeting,Kolkata,0,Call,51
+1978,meeting family trip hello,Delhi,0,Call,89
+1979,claim now OTP win OTP free gift lottery,Pune,1,SMS,0
+1980,blocked free gift blocked OTP,Pune,1,Call,248
+1981,project update meeting schedule meeting family trip assignment,Kolkata,0,Call,88
+1982,investment scheme blocked OTP urgent,Bangalore,1,SMS,0
+1983,meeting meeting dinner hello,Hyderabad,0,SMS,0
+1984,schedule dinner assignment meeting assignment,Chennai,0,SMS,0
+1985,schedule project update project update,Mumbai,0,Call,264
+1986,documents assignment assignment assignment hello,Hyderabad,0,SMS,0
+1987,assignment project update hello documents family trip,Noida,0,SMS,0
+1988,call me documents invoice hello project update,Kolkata,0,SMS,0
+1989,project update schedule meeting assignment project update,Bangalore,0,Call,191
+1990,assignment dinner meeting dinner assignment hello,Unknown,0,Call,269
+1991,claim now lottery KYC update,Bangalore,1,SMS,0
+1992,project update invoice family trip,Delhi,0,SMS,0
+1993,project update call me documents meeting call me assignment,Bangalore,0,Call,72
+1994,meeting documents meeting hello,Delhi,0,Call,77
+1995,urgent OTP KYC update blocked lottery KYC update,Noida,1,SMS,0
+1996,dinner call me hello,Mumbai,0,Call,31
+1997,investment scheme free gift blocked free gift lottery claim now,Noida,1,SMS,0
+1998,invoice family trip assignment meeting,Delhi,0,SMS,0
+1999,documents project update invoice,Unknown,0,Call,10
+2000,documents call me hello invoice meeting,Hyderabad,0,SMS,0
