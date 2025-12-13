@@ -1,0 +1,21 @@
+Message_Text,Caller_Location,Communication_Type,Duration_Seconds,Is_Fraud
+"Free gift offer, click now",Delhi,Text,2,1
+"Your package has shipped",Mumbai,Text,5,0
+"Unknown number calling repeatedly",Unknown,Call,42,1
+"Bank alert: verify account",Chennai,Text,3,1
+"Meeting at 6pm",Delhi,Text,8,0
+"Congratulations you won",Kolkata,Text,1,1
+"Recharge successful",Hyderabad,Text,4,0
+"Lottery claim now",Unknown,Text,3,1
+"Friend calling",Bengaluru,Call,55,0
+"Suspicious international call",Unknown,Call,61,1
+"Harassment threat message",Unknown,Text,2,1
+"Boss reminder",Pune,Text,9,0
+"Fraud credit card alert",Delhi,Text,2,1
+"Delivery OTP",Mumbai,Text,1,0
+"Spam promotion",Kolkata,Text,2,1
+"Video call missed",Hyderabad,Call,32,0
+"Fake job offer",Unknown,Text,4,1
+"Family call",Chennai,Call,120,0
+"Suspicious link received",Unknown,Text,1,1
+"Doctor appointment",Delhi,Text,6,0
